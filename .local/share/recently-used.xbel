@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/bharaths/Downloads/ventoy-1.0.95-linux.tar.gz" added="2023-09-02T19:48:39.095180Z" modified="2023-09-02T19:48:39.095204Z" visited="2023-09-02T19:48:39.095185Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-09-02T19:48:39.095191Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/Win10_22H2_English_x64v1.iso" added="2023-09-02T19:51:12.648937Z" modified="2023-09-02T19:51:12.648965Z" visited="2023-09-02T19:51:12.648942Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-09-02T19:51:12.648953Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/kali-linux-2023.3-live-amd64.iso" added="2023-09-02T19:54:34.243513Z" modified="2023-09-02T19:54:34.243576Z" visited="2023-09-02T19:54:34.243518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-09-02T19:54:34.243532Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/Fedora-Workstation-Live-x86_64-38-1.6.iso" added="2023-09-02T19:55:38.817190Z" modified="2023-09-02T19:55:38.817215Z" visited="2023-09-02T19:55:38.817195Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-09-02T19:55:38.817203Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/microsoft-edge-stable-116.0.1938.69-1.x86_64.rpm" added="2023-09-02T20:01:07.033543Z" modified="2023-09-02T20:16:05.566378Z" visited="2023-09-02T20:01:07.033547Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-09-02T20:01:07.033555Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-software --local-filename %f&apos;" modified="2023-09-02T20:16:05.566372Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/FiraCode.zip" added="2023-09-02T20:07:37.394943Z" modified="2023-09-02T20:07:37.394981Z" visited="2023-09-02T20:07:37.394947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-09-02T20:07:37.394956Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/Hack.zip" added="2023-09-02T20:07:44.767762Z" modified="2023-09-02T20:07:44.767790Z" visited="2023-09-02T20:07:44.767767Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-09-02T20:07:44.767776Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/Ubuntu.zip" added="2023-09-02T20:08:07.092133Z" modified="2023-09-02T20:08:07.092154Z" visited="2023-09-02T20:08:07.092137Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-09-02T20:08:07.092143Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/code_1.81.1-1691620686_amd64.deb" added="2023-09-02T20:09:35.437008Z" modified="2023-09-02T20:09:35.437031Z" visited="2023-09-02T20:09:35.437016Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-09-02T20:09:35.437022Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/com.usebottles.bottles.flatpakref" added="2023-09-02T20:24:56.006398Z" modified="2023-09-02T20:24:56.006413Z" visited="2023-09-02T20:24:56.006401Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.flatpak.ref"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2023-09-02T20:24:56.006407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/bharaths/Vier/FIFA%2023/FIFA23.exe" added="2023-09-02T20:34:30.033572Z" modified="2023-09-02T20:35:29.528983Z" visited="2023-09-02T20:34:30.033575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="com.usebottles.bottles" exec="&apos;gio open %u&apos;" modified="2023-09-02T20:35:29.526058Z" count="2"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-09-02T20:35:29.528976Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/bharaths/Vier/FIFA%2023/Launcher.exe" added="2023-09-02T20:35:00.513314Z" modified="2023-09-02T20:35:00.514850Z" visited="2023-09-02T20:35:00.513317Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="com.usebottles.bottles" exec="&apos;gio open %u&apos;" modified="2023-09-02T20:35:00.513320Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-09-02T20:35:00.514843Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/bharaths/Vier/FIFA%2023" added="2023-09-02T20:37:21.182080Z" modified="2023-09-02T20:37:21.184054Z" visited="2023-09-02T20:37:21.182084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="com.usebottles.bottles" exec="&apos;gio open %u&apos;" modified="2023-09-02T20:37:21.182089Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-09-02T20:37:21.184049Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/.fonts" added="2023-09-03T07:38:04.582454Z" modified="2023-09-03T07:38:04.582471Z" visited="2023-09-03T07:38:04.582458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-09-03T07:38:04.582463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFontPropo-Italic.ttf" added="2023-09-03T07:39:59.673349Z" modified="2023-09-03T07:42:14.377255Z" visited="2023-09-03T07:39:59.673353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377251Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFont-Bold.ttf" added="2023-09-03T07:42:14.376392Z" modified="2023-09-03T07:42:14.376410Z" visited="2023-09-03T07:42:14.376396Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376403Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFont-Light.ttf" added="2023-09-03T07:42:14.376441Z" modified="2023-09-03T07:42:14.376459Z" visited="2023-09-03T07:42:14.376445Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376453Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFont-Medium.ttf" added="2023-09-03T07:42:14.376477Z" modified="2023-09-03T07:42:14.376492Z" visited="2023-09-03T07:42:14.376481Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376486Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontMono-Bold.ttf" added="2023-09-03T07:42:14.376511Z" modified="2023-09-03T07:42:14.376526Z" visited="2023-09-03T07:42:14.376514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376519Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontMono-Light.ttf" added="2023-09-03T07:42:14.376544Z" modified="2023-09-03T07:42:14.376561Z" visited="2023-09-03T07:42:14.376549Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376555Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontMono-Medium.ttf" added="2023-09-03T07:42:14.376582Z" modified="2023-09-03T07:42:14.376599Z" visited="2023-09-03T07:42:14.376586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376591Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontMono-Regular.ttf" added="2023-09-03T07:42:14.376619Z" modified="2023-09-03T07:42:14.376634Z" visited="2023-09-03T07:42:14.376623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376629Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontMono-Retina.ttf" added="2023-09-03T07:42:14.376648Z" modified="2023-09-03T07:42:14.376661Z" visited="2023-09-03T07:42:14.376652Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376657Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontMono-SemiBold.ttf" added="2023-09-03T07:42:14.376678Z" modified="2023-09-03T07:42:14.376694Z" visited="2023-09-03T07:42:14.376682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376688Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontPropo-Bold.ttf" added="2023-09-03T07:42:14.376712Z" modified="2023-09-03T07:42:14.376728Z" visited="2023-09-03T07:42:14.376715Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376721Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontPropo-Light.ttf" added="2023-09-03T07:42:14.376745Z" modified="2023-09-03T07:42:14.376759Z" visited="2023-09-03T07:42:14.376749Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376754Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontPropo-Medium.ttf" added="2023-09-03T07:42:14.376773Z" modified="2023-09-03T07:42:14.376787Z" visited="2023-09-03T07:42:14.376777Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376781Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontPropo-Regular.ttf" added="2023-09-03T07:42:14.376800Z" modified="2023-09-03T07:42:14.376842Z" visited="2023-09-03T07:42:14.376803Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376807Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontPropo-Retina.ttf" added="2023-09-03T07:42:14.376860Z" modified="2023-09-03T07:42:14.376876Z" visited="2023-09-03T07:42:14.376864Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376870Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFontPropo-SemiBold.ttf" added="2023-09-03T07:42:14.376894Z" modified="2023-09-03T07:42:14.376909Z" visited="2023-09-03T07:42:14.376898Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376903Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFont-Regular.ttf" added="2023-09-03T07:42:14.376926Z" modified="2023-09-03T07:42:14.376940Z" visited="2023-09-03T07:42:14.376930Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376934Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFont-Retina.ttf" added="2023-09-03T07:42:14.376953Z" modified="2023-09-03T07:42:14.376966Z" visited="2023-09-03T07:42:14.376956Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376961Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/FiraCodeNerdFont-SemiBold.ttf" added="2023-09-03T07:42:14.376979Z" modified="2023-09-03T07:42:14.376993Z" visited="2023-09-03T07:42:14.376983Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.376987Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFont-Bold.ttf" added="2023-09-03T07:42:14.377007Z" modified="2023-09-03T07:42:14.377020Z" visited="2023-09-03T07:42:14.377011Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377015Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFont-BoldItalic.ttf" added="2023-09-03T07:42:14.377033Z" modified="2023-09-03T07:42:14.377047Z" visited="2023-09-03T07:42:14.377037Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFont-Italic.ttf" added="2023-09-03T07:42:14.377060Z" modified="2023-09-03T07:42:14.377074Z" visited="2023-09-03T07:42:14.377064Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377069Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFontMono-Bold.ttf" added="2023-09-03T07:42:14.377087Z" modified="2023-09-03T07:42:14.377100Z" visited="2023-09-03T07:42:14.377090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377095Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFontMono-BoldItalic.ttf" added="2023-09-03T07:42:14.377112Z" modified="2023-09-03T07:42:14.377125Z" visited="2023-09-03T07:42:14.377115Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377120Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFontMono-Italic.ttf" added="2023-09-03T07:42:14.377138Z" modified="2023-09-03T07:42:14.377153Z" visited="2023-09-03T07:42:14.377141Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377146Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFontMono-Regular.ttf" added="2023-09-03T07:42:14.377167Z" modified="2023-09-03T07:42:14.377181Z" visited="2023-09-03T07:42:14.377171Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377176Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFontPropo-Bold.ttf" added="2023-09-03T07:42:14.377195Z" modified="2023-09-03T07:42:14.377209Z" visited="2023-09-03T07:42:14.377199Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377203Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFontPropo-BoldItalic.ttf" added="2023-09-03T07:42:14.377222Z" modified="2023-09-03T07:42:14.377235Z" visited="2023-09-03T07:42:14.377225Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377230Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFontPropo-Regular.ttf" added="2023-09-03T07:42:14.377267Z" modified="2023-09-03T07:42:14.377282Z" visited="2023-09-03T07:42:14.377271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377276Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/HackNerdFont-Regular.ttf" added="2023-09-03T07:42:14.377295Z" modified="2023-09-03T07:42:14.377309Z" visited="2023-09-03T07:42:14.377299Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377304Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFont-Bold.ttf" added="2023-09-03T07:42:14.377321Z" modified="2023-09-03T07:43:12.204002Z" visited="2023-09-03T07:42:14.377325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:43:12.203996Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFont-BoldItalic.ttf" added="2023-09-03T07:42:14.377348Z" modified="2023-09-03T07:42:14.377362Z" visited="2023-09-03T07:42:14.377352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFont-Condensed.ttf" added="2023-09-03T07:42:14.377375Z" modified="2023-09-03T07:42:14.377390Z" visited="2023-09-03T07:42:14.377379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377384Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFont-Italic.ttf" added="2023-09-03T07:42:14.377402Z" modified="2023-09-03T07:42:14.377416Z" visited="2023-09-03T07:42:14.377406Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377411Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFont-Light.ttf" added="2023-09-03T07:42:14.377429Z" modified="2023-09-03T07:42:14.377443Z" visited="2023-09-03T07:42:14.377433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377438Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFont-LightItalic.ttf" added="2023-09-03T07:42:14.377457Z" modified="2023-09-03T07:42:14.377471Z" visited="2023-09-03T07:42:14.377461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377465Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFont-Medium.ttf" added="2023-09-03T07:42:14.377484Z" modified="2023-09-03T07:42:14.377497Z" visited="2023-09-03T07:42:14.377487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377492Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFont-MediumItalic.ttf" added="2023-09-03T07:42:14.377510Z" modified="2023-09-03T07:42:14.377525Z" visited="2023-09-03T07:42:14.377514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377519Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFontPropo-Bold.ttf" added="2023-09-03T07:42:14.377538Z" modified="2023-09-03T07:42:14.377551Z" visited="2023-09-03T07:42:14.377542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377546Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFontPropo-BoldItalic.ttf" added="2023-09-03T07:42:14.377565Z" modified="2023-09-03T07:42:14.377579Z" visited="2023-09-03T07:42:14.377569Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377574Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFontPropo-Condensed.ttf" added="2023-09-03T07:42:14.377592Z" modified="2023-09-03T07:42:14.377607Z" visited="2023-09-03T07:42:14.377596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377600Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFontPropo-Italic.ttf" added="2023-09-03T07:42:14.377619Z" modified="2023-09-03T07:42:14.377633Z" visited="2023-09-03T07:42:14.377623Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377628Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFontPropo-Light.ttf" added="2023-09-03T07:42:14.377646Z" modified="2023-09-03T07:42:14.377659Z" visited="2023-09-03T07:42:14.377650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377655Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFontPropo-LightItalic.ttf" added="2023-09-03T07:42:14.377673Z" modified="2023-09-03T07:42:14.377687Z" visited="2023-09-03T07:42:14.377677Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377682Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFontPropo-Medium.ttf" added="2023-09-03T07:42:14.377700Z" modified="2023-09-03T07:42:14.377714Z" visited="2023-09-03T07:42:14.377704Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377709Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFontPropo-MediumItalic.ttf" added="2023-09-03T07:42:14.377728Z" modified="2023-09-03T07:42:14.377742Z" visited="2023-09-03T07:42:14.377731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377736Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFontPropo-Regular.ttf" added="2023-09-03T07:42:14.377771Z" modified="2023-09-03T07:42:14.377787Z" visited="2023-09-03T07:42:14.377775Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377780Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.fonts/UbuntuNerdFont-Regular.ttf" added="2023-09-03T07:42:14.377804Z" modified="2023-09-03T07:42:14.377840Z" visited="2023-09-03T07:42:14.377809Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-font-viewer %u&apos;" modified="2023-09-03T07:42:14.377833Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.config/starship.toml" added="2023-09-03T07:44:36.516350Z" modified="2023-09-03T07:55:14.785609Z" visited="2023-09-03T07:44:36.516355Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/toml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T07:44:36.516358Z" count="1"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-09-03T07:55:14.785602Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/dotfiles/config" added="2023-09-03T08:21:53.238460Z" modified="2023-09-03T08:21:53.238476Z" visited="2023-09-03T08:21:53.238465Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T08:21:53.238470Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/dotfiles/HEAD" added="2023-09-03T08:21:59.049789Z" modified="2023-09-03T08:21:59.049806Z" visited="2023-09-03T08:21:59.049794Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T08:21:59.049799Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/dotfiles/info/exclude" added="2023-09-03T08:22:07.611376Z" modified="2023-09-03T08:22:07.611391Z" visited="2023-09-03T08:22:07.611380Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T08:22:07.611385Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

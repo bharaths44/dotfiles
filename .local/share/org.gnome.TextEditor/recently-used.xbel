@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/bharaths/.config/starship.toml" added="2023-09-03T07:44:39.668618Z" modified="2023-09-03T08:23:47.697299Z" visited="2023-09-03T13:52:08.077256+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-03T08:23:47.697296Z" count="32"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/dotfiles/config" added="2023-09-03T08:21:56.674976Z" modified="2023-09-03T08:23:47.697305Z" visited="2023-09-03T13:52:08.085756+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-03T08:23:47.697303Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/dotfiles/HEAD" added="2023-09-03T08:22:02.502878Z" modified="2023-09-03T08:23:47.697311Z" visited="2023-09-03T13:52:08.087692+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-03T08:23:47.697309Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/dotfiles/info/exclude" added="2023-09-03T08:22:10.676657Z" modified="2023-09-03T08:23:47.697291Z" visited="2023-09-03T13:52:08.088607+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-03T08:23:47.697287Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
