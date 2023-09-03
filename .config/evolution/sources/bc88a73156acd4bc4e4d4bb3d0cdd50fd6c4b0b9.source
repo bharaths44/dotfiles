@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=bharathsatheesan@gmail.com
+Enabled=true
+Parent=0c76b2c0c550b5a76e1989f21cc3f57fd9140b8e
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=6b7845f811e65f72df1b3552252cc3bbe26d91d4
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=bharathsatheesan@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
