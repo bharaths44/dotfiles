@@ -1,6 +1,23 @@
+[com/gexperts/Tilix]
+theme-variant='dark'
+warn-vte-config-issue=false
+
+[com/gexperts/Tilix/profiles/2b7c4080-0ddd-46c5-8f23-563fd3ba789d]
+background-transparency-percent=4
+palette=['#000000', '#AA0000', '#00AA00', '#AA5400', '#0000AA', '#AA00AA', '#00AAAA', '#AAAAAA', '#545454', '#FF5454', '#54FF54', '#FFFF54', '#5454FF', '#FF54FF', '#54FFFF', '#FFFFFF']
+terminal-bell='none'
+use-theme-colors=true
+visible-name='Default'
+
+[org/gnome/GWeather4]
+temperature-unit='centigrade'
+
+[org/gnome/Weather]
+locations=[<(uint32 2, <('Kochi', 'VOCI', true, [(0.17724788957066526, 1.3332812582217786)], [(0.17413149947147427, 1.3311626204960751)])>)>]
+
 [org/gnome/control-center]
-last-panel='multitasking'
-window-state=(954, 514, false)
+last-panel='wifi'
+window-state=(1912, 1032, false)
 
 [org/gnome/desktop/app-folders]
 folder-children=['Utilities', 'YaST']
@@ -15,6 +32,10 @@ translate=true
 categories=['X-SuSE-YaST']
 name='suse-yast.directory'
 translate=true
+
+[org/gnome/desktop/background]
+picture-uri='file:///home/bharaths/Downloads/wallpaperflare.com_wallpaper.jpg'
+picture-uri-dark='file:///home/bharaths/Downloads/wallpaperflare.com_wallpaper.jpg'
 
 [org/gnome/desktop/input-sources]
 current=uint32 0
@@ -34,7 +55,7 @@ text-scaling-factor=1.25
 toolkit-accessibility=false
 
 [org/gnome/desktop/notifications]
-application-children=['org-freedesktop-problems-applet', 'org-gnome-nautilus', 'org-gnome-terminal', 'com-usebottles-bottles', 'com-spotify-client', 'gnome-network-panel', 'org-gnome-software', 'org-gnome-font-viewer', 'org-gnome-terminal-preferences', 'org-gnome-texteditor', 'code', 'org-gnome-tweaks', 'grub-customizer']
+application-children=['org-freedesktop-problems-applet', 'org-gnome-nautilus', 'org-gnome-terminal', 'com-usebottles-bottles', 'com-spotify-client', 'gnome-network-panel', 'org-gnome-software', 'org-gnome-font-viewer', 'org-gnome-terminal-preferences', 'org-gnome-texteditor', 'code', 'org-gnome-tweaks', 'grub-customizer', 'gnome-power-panel']
 
 [org/gnome/desktop/notifications/application/code]
 application-id='code.desktop'
@@ -47,6 +68,9 @@ application-id='com.usebottles.bottles.desktop'
 
 [org/gnome/desktop/notifications/application/gnome-network-panel]
 application-id='gnome-network-panel.desktop'
+
+[org/gnome/desktop/notifications/application/gnome-power-panel]
+application-id='gnome-power-panel.desktop'
 
 [org/gnome/desktop/notifications/application/grub-customizer]
 application-id='grub-customizer.desktop'
@@ -80,6 +104,10 @@ tap-to-click=true
 two-finger-scrolling-enabled=true
 
 [org/gnome/desktop/privacy]
+old-files-age=uint32 14
+recent-files-max-age=-1
+remove-old-temp-files=true
+remove-old-trash-files=true
 report-technical-problems=true
 
 [org/gnome/desktop/session]
@@ -111,7 +139,7 @@ migrated-gtk-settings=true
 search-filter-time-type='last_modified'
 
 [org/gnome/nautilus/window-state]
-initial-size=(634, 1032)
+initial-size=(954, 514)
 maximized=true
 
 [org/gnome/portal/filechooser/com.usebottles.bottles]
@@ -119,7 +147,7 @@ last-folder-path='/run/media/bharaths/Vier/FIFA 23'
 
 [org/gnome/settings-daemon/plugins/color]
 night-light-enabled=true
-night-light-last-coordinates=(11.220453825479254, 75.726799999999997)
+night-light-last-coordinates=(9.30908567267298, 76.615099999999998)
 night-light-temperature=uint32 2842
 
 [org/gnome/settings-daemon/plugins/power]
@@ -127,9 +155,9 @@ idle-dim=false
 sleep-inactive-ac-type='nothing'
 
 [org/gnome/shell]
-app-picker-layout=[{'org.gnome.Boxes.desktop': <{'position': <0>}>, 'org.gnome.Calculator.desktop': <{'position': <1>}>, 'org.gnome.Calendar.desktop': <{'position': <2>}>, 'org.gnome.Cheese.desktop': <{'position': <3>}>, 'org.gnome.clocks.desktop': <{'position': <4>}>, 'org.gnome.Contacts.desktop': <{'position': <5>}>, 'simple-scan.desktop': <{'position': <6>}>, 'grub-customizer.desktop': <{'position': <7>}>, 'yelp.desktop': <{'position': <8>}>, 'htop.desktop': <{'position': <9>}>, 'libreoffice-calc.desktop': <{'position': <10>}>, 'libreoffice-impress.desktop': <{'position': <11>}>, 'libreoffice-writer.desktop': <{'position': <12>}>, 'org.gnome.Maps.desktop': <{'position': <13>}>, 'nvidia-settings.desktop': <{'position': <14>}>, 'org.gnome.Rhythmbox3.desktop': <{'position': <15>}>, 'gnome-system-monitor.desktop': <{'position': <16>}>, 'org.gnome.Terminal.desktop': <{'position': <17>}>, 'org.gnome.TextEditor.desktop': <{'position': <18>}>, 'org.gnome.Tour.desktop': <{'position': <19>}>, 'Utilities': <{'position': <20>}>, 'org.gnome.Totem.desktop': <{'position': <21>}>, 'org.gnome.Weather.desktop': <{'position': <22>}>}]
+app-picker-layout=[{'org.gnome.Boxes.desktop': <{'position': <0>}>, 'org.gnome.Calculator.desktop': <{'position': <1>}>, 'org.gnome.Calendar.desktop': <{'position': <2>}>, 'org.gnome.Cheese.desktop': <{'position': <3>}>, 'org.gnome.clocks.desktop': <{'position': <4>}>, 'org.gnome.Contacts.desktop': <{'position': <5>}>, 'grub-customizer.desktop': <{'position': <6>}>, 'org.kde.gwenview.desktop': <{'position': <7>}>, 'yelp.desktop': <{'position': <8>}>, 'htop.desktop': <{'position': <9>}>, 'libreoffice-calc.desktop': <{'position': <10>}>, 'libreoffice-impress.desktop': <{'position': <11>}>, 'libreoffice-writer.desktop': <{'position': <12>}>, 'org.gnome.Maps.desktop': <{'position': <13>}>, 'msedge-ocdlmjhbenodhlknglojajgokahchlkk-Default.desktop': <{'position': <14>}>, 'nvidia-settings.desktop': <{'position': <15>}>, 'org.gnome.Rhythmbox3.desktop': <{'position': <16>}>, 'gnome-system-monitor.desktop': <{'position': <17>}>, 'org.gnome.Terminal.desktop': <{'position': <18>}>, 'org.gnome.TextEditor.desktop': <{'position': <19>}>, 'org.gnome.Tour.desktop': <{'position': <20>}>, 'Utilities': <{'position': <21>}>, 'org.gnome.Totem.desktop': <{'position': <22>}>, 'org.gnome.Weather.desktop': <{'position': <23>}>}]
 enabled-extensions=['background-logo@fedorahosted.org', 'dash-to-dock@micxgx.gmail.com', 'activities-filled-pill@verdre', 'AlphabeticalAppGrid@stuarthayhurst', 'caffeine@patapon.info', 'extension-list@tu.berry', 'forge@jmmaranan.com', 'search-light@icedman.github.com', 'impatience@gfxmonk.net', 'gnome-ui-tune@itstime.tech']
-favorite-apps=['org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'microsoft-edge.desktop', 'com.gexperts.Tilix.desktop', 'code.desktop', 'com.spotify.Client.desktop', 'org.telegram.desktop.desktop', 'io.missioncenter.MissionCenter.desktop', 'org.gnome.Settings.desktop']
+favorite-apps=['org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'microsoft-edge.desktop', 'com.gexperts.Tilix.desktop', 'code.desktop', 'com.spotify.Client.desktop', 'org.telegram.desktop.desktop', 'io.missioncenter.MissionCenter.desktop', 'msedge-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop', 'msedge-jckaldkomadaenmmgladeopgmfbahfjm-Default.desktop', 'org.gnome.Settings.desktop']
 last-selected-power-profile='power-saver'
 welcome-dialog-last-shown-version='44.0'
 
@@ -206,11 +234,15 @@ workspace-active-tile-toggle=['<Shift><Super>w']
 [org/gnome/shell/extensions/gnome-ui-tune]
 hide-search=false
 
+[org/gnome/shell/weather]
+automatic-location=true
+locations=[<(uint32 2, <('Kochi', 'VOCI', true, [(0.17724788957066526, 1.3332812582217786)], [(0.17413149947147427, 1.3311626204960751)])>)>]
+
 [org/gnome/shell/world-clocks]
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1693685926
+check-timestamp=int64 1693810155
 first-run=false
 flatpak-purge-timestamp=int64 1693732332
 
@@ -231,7 +263,7 @@ selected-color=(true, 0.10196078568696976, 0.37254902720451355, 0.70588237047195
 [org/gtk/gtk4/settings/file-chooser]
 date-format='regular'
 location-mode='path-bar'
-show-hidden=false
+show-hidden=true
 show-size-column=true
 show-type-column=true
 sidebar-width=140
@@ -242,16 +274,19 @@ type-format='category'
 view-type='list'
 window-size=(859, 374)
 
+[org/gtk/settings/color-chooser]
+selected-color=(true, 0.0, 0.0, 0.0, 1.0)
+
 [org/gtk/settings/file-chooser]
 date-format='regular'
 location-mode='path-bar'
 show-hidden=true
 show-size-column=true
 show-type-column=true
-sidebar-width=184
+sidebar-width=187
 sort-column='name'
 sort-directories-first=false
 sort-order='ascending'
 type-format='category'
-window-position=(57, 40)
+window-position=(26, 23)
 window-size=(1863, 993)

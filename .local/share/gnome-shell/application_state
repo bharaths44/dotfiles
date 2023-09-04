@@ -1,20 +1,22 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Terminal.Preferences.desktop" score="4" last-seen="1693727927"/>
-    <application id="code.desktop" score="176" last-seen="1693728831"/>
-    <application id="org.gnome.Nautilus.desktop" score="90" last-seen="1693729621"/>
-    <application id="org.gnome.Settings.desktop" score="22" last-seen="1693728814"/>
     <application id="org.gnome.tweaks.desktop" score="14" last-seen="1693727916"/>
-    <application id="firefox.desktop" score="141" last-seen="1693687216"/>
-    <application id="org.gnome.Terminal.desktop" score="209" last-seen="1693729997"/>
-    <application id="org.gnome.Software.desktop" score="39" last-seen="1693728389"/>
-    <application id="com.spotify.Client.desktop" score="1" last-seen="1693687224"/>
-    <application id="microsoft-edge.desktop" score="224" last-seen="1693729985"/>
-    <application id="nvidia-settings.desktop" score="2" last-seen="1693687924"/>
+    <application id="org.gnome.TextEditor.desktop" score="33" last-seen="1693811310"/>
+    <application id="org.gnome.Software.desktop" score="56" last-seen="1693732494"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="15" last-seen="1693810616"/>
+    <application id="com.gexperts.Tilix.desktop" score="97" last-seen="1693813581"/>
+    <application id="org.gnome.Terminal.Preferences.desktop" score="4" last-seen="1693727927"/>
+    <application id="microsoft-edge.desktop" score="633" last-seen="1693813522"/>
+    <application id="org.gnome.Nautilus.desktop" score="213" last-seen="1693811364"/>
     <application id="grub-customizer.desktop" score="24" last-seen="1693728826"/>
+    <application id="org.gnome.Weather.desktop" score="4" last-seen="1693810073"/>
+    <application id="nvidia-settings.desktop" score="2" last-seen="1693687924"/>
     <application id="org.gnome.font-viewer.desktop" score="1" last-seen="1693726997"/>
-    <application id="org.gnome.Shell.Extensions.desktop" score="15" last-seen="1693728884"/>
-    <application id="org.gnome.TextEditor.desktop" score="24" last-seen="1693729427"/>
+    <application id="org.gnome.Terminal.desktop" score="1102" last-seen="1693811348"/>
+    <application id="org.gnome.eog.desktop" score="1" last-seen="1693810267"/>
+    <application id="code.desktop" score="298" last-seen="1693813556"/>
+    <application id="com.spotify.Client.desktop" score="1" last-seen="1693687224"/>
+    <application id="org.gnome.Settings.desktop" score="39" last-seen="1693810664"/>
   </context>
 </application-state>

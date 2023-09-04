@@ -12,6 +12,9 @@ binutils-2.39-9.fc38.x86_64
 binutils-gold-2.39-9.fc38.x86_64
 bison-3.8.2-4.fc38.x86_64
 code-1.81.1-1691620770.el7.x86_64
+cronie-1.6.1-4.fc38.x86_64
+cronie-anacron-1.6.1-4.fc38.x86_64
+crontabs-1.11-29.20190603git.fc38.noarch
 debugedit-5.0-9.fc38.x86_64
 dracut-live-059-3.fc38.x86_64
 dwz-0.15-2.fc38.x86_64
@@ -102,6 +105,7 @@ xorg-x11-drv-nvidia-libs-3:535.104.05-1.fc38.x86_64
 xorg-x11-drv-nvidia-power-3:535.104.05-1.fc38.x86_64
 zlib-devel-1.2.13-3.fc38.x86_64
 zstd-1.5.5-1.fc38.x86_64
-Spotify	com.spotify.Client	1.2.11.916.geb595a67	stable	system
-Mission Center	io.missioncenter.MissionCenter	0.3.1	stable	system
-Telegram Desktop	org.telegram.desktop	4.9.4	stable	system
+Spotify	com.spotify.Client	1.2.11.916.geb595a67	stable	flathub	system
+Mission Center	io.missioncenter.MissionCenter	0.3.1	stable	flathub	system
+Gwenview	org.kde.gwenview	23.04.3	stable	fedora	system
+Telegram Desktop	org.telegram.desktop	4.9.4	stable	flathub	system

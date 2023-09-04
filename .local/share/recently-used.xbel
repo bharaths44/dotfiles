@@ -668,4 +668,117 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="admin:///boot/grub2/grub.cfg" added="2023-09-03T08:44:11.710571Z" modified="2023-09-03T08:44:11.710588Z" visited="2023-09-03T08:44:11.710576Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T08:44:11.710581Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/grub2.cfg" added="2023-09-03T08:45:17.583521Z" modified="2023-09-03T08:45:17.583539Z" visited="2023-09-03T08:45:17.583525Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/symlink"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T08:45:17.583532Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.bash_history" added="2023-09-03T08:53:34.430198Z" modified="2023-09-03T08:53:34.430214Z" visited="2023-09-03T08:53:34.430202Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T08:53:34.430208Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/packages.txt" added="2023-09-03T08:54:43.695991Z" modified="2023-09-03T08:58:19.219089Z" visited="2023-09-03T08:54:43.695995Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T08:58:19.219082Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/pacakes.txt" added="2023-09-03T08:57:47.299965Z" modified="2023-09-03T08:57:47.299981Z" visited="2023-09-03T08:57:47.299970Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T08:57:47.299975Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/dotfiles/logs/HEAD" added="2023-09-03T09:03:17.623084Z" modified="2023-09-03T09:03:17.623101Z" visited="2023-09-03T09:03:17.623089Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T09:03:17.623095Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/dotfiles/logs/refs/heads/main" added="2023-09-03T09:03:26.682237Z" modified="2023-09-03T09:03:26.682254Z" visited="2023-09-03T09:03:26.682241Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T09:03:26.682248Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/gnome-initial-setup/vendor.conf" added="2023-09-03T09:12:37.539776Z" modified="2023-09-03T09:12:37.539795Z" visited="2023-09-03T09:12:37.539781Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-03T09:12:37.539788Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/saved_settings.dconf" added="2023-09-03T09:14:58.555843Z" modified="2023-09-04T07:01:58.756930Z" visited="2023-09-03T09:14:58.555847Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-04T07:01:58.756924Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/wallpaperflare.com_wallpaper.jpg" added="2023-09-04T06:50:53.551584Z" modified="2023-09-04T06:50:53.551606Z" visited="2023-09-04T06:50:53.551590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-09-04T06:50:53.551599Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.config/dconf/user" added="2023-09-04T07:08:23.128396Z" modified="2023-09-04T07:08:23.128414Z" visited="2023-09-04T07:08:23.128400Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-04T07:08:23.128407Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

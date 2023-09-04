@@ -29,4 +29,4 @@ eval "$(starship init bash)"
 neofetch
 
 alias config='/usr/bin/git --git-dir=/home/bharaths/dotfiles/ --work-tree=/home/bharaths'
-alias config='/usr/bin/git --git-dir=/home/bharaths/dotfiles/ --work-tree=/home/bharaths'
+
