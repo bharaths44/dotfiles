@@ -781,4 +781,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/bharaths/crontab_setting.txt" added="2023-09-04T07:54:37.952212Z" modified="2023-09-04T07:54:37.952231Z" visited="2023-09-04T07:54:37.952217Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-09-04T07:54:37.952223Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
