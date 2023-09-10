@@ -10,10 +10,10 @@
     <application id="io.missioncenter.MissionCenter.desktop" score="7" last-seen="1694067777"/>
     <application id="msedge-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop" score="17" last-seen="1694238353"/>
     <application id="org.gnome.Shell.Extensions.GSConnect.Preferences.desktop" score="8" last-seen="1693836836"/>
-    <application id="com.gexperts.Tilix.desktop" score="513" last-seen="1694235065"/>
+    <application id="com.gexperts.Tilix.desktop" score="521" last-seen="1694322521"/>
     <application id="org.gnome.Terminal.Preferences.desktop" score="4" last-seen="1693727927"/>
     <application id="org.gnome.eog.desktop" score="1" last-seen="1693810267"/>
-    <application id="microsoft-edge.desktop" score="8015" last-seen="1694322024"/>
+    <application id="microsoft-edge.desktop" score="8025" last-seen="1694322518"/>
     <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1693991182"/>
     <application id="org.freedesktop.GnomeAbrt.desktop" score="1" last-seen="1693917882"/>
     <application id="google-chrome-unstable.desktop" score="67" last-seen="1694237815"/>
@@ -21,8 +21,8 @@
     <application id="org.gnome.font-viewer.desktop" score="1" last-seen="1693726997"/>
     <application id="org.gnome.Terminal.desktop" score="1148" last-seen="1694242124"/>
     <application id="grub-customizer.desktop" score="24" last-seen="1693728826"/>
-    <application id="vlc.desktop" score="104" last-seen="1694322035"/>
-    <application id="org.gnome.Nautilus.desktop" score="427" last-seen="1694322065"/>
+    <application id="vlc.desktop" score="148" last-seen="1694322428"/>
+    <application id="org.gnome.Nautilus.desktop" score="427" last-seen="1694322519"/>
     <application id="code.desktop" score="320" last-seen="1694194803"/>
     <application id="org.telegram.desktop.desktop" score="288" last-seen="1693991003"/>
     <application id="org.gnome.Totem.desktop" score="2" last-seen="1694322022"/>

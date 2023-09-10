@@ -851,12 +851,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/.git-credentials" added="2023-09-04T16:46:58.883814Z" modified="2023-09-04T16:46:58.883832Z" visited="2023-09-04T16:46:58.883819Z">
+  <bookmark href="file:///home/bharaths/.git-credentials" added="2023-09-04T16:46:58.883814Z" modified="2023-09-10T05:12:12.459097Z" visited="2023-09-04T16:46:58.883819Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
+        <mime:mime-type type="application/x-zerosize"/>
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-04T16:46:58.883825Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-10T05:12:12.459089Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>

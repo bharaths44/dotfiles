@@ -6,6 +6,7 @@ x-scheme-handler/about=microsoft-edge.desktop
 x-scheme-handler/unknown=microsoft-edge.desktop
 x-scheme-handler/postman=Postman.desktop
 video/x-ms-wmv=vlc.desktop
+x-scheme-handler/mailto=microsoft-edge.desktop
 
 [Added Associations]
 application/octet-stream=org.gnome.TextEditor.desktop;
