@@ -698,12 +698,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/packages.txt" added="2023-09-03T08:54:43.695991Z" modified="2023-09-04T16:40:52.850076Z" visited="2023-09-03T08:54:43.695995Z">
+  <bookmark href="file:///home/bharaths/packages.txt" added="2023-09-03T08:54:43.695991Z" modified="2023-09-10T05:16:41.005993Z" visited="2023-09-03T08:54:43.695995Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-04T16:40:52.850070Z" count="7"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2023-09-10T05:16:41.005980Z" count="8"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -831,12 +831,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/.flutter" added="2023-09-04T16:46:46.736053Z" modified="2023-09-04T16:46:46.736071Z" visited="2023-09-04T16:46:46.736058Z">
+  <bookmark href="file:///home/bharaths/.flutter" added="2023-09-04T16:46:46.736053Z" modified="2023-09-10T05:15:34.232289Z" visited="2023-09-04T16:46:46.736058Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-04T16:46:46.736063Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-10T05:15:34.232283Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -851,12 +851,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/.git-credentials" added="2023-09-04T16:46:58.883814Z" modified="2023-09-10T05:12:12.459097Z" visited="2023-09-04T16:46:58.883819Z">
+  <bookmark href="file:///home/bharaths/.git-credentials" added="2023-09-04T16:46:58.883814Z" modified="2023-09-10T05:13:27.602318Z" visited="2023-09-04T16:46:58.883819Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="application/x-zerosize"/>
+        <mime:mime-type type="text/plain"/>
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-10T05:12:12.459089Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-10T05:13:27.602311Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1018,6 +1018,46 @@
         <bookmark:applications>
           <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-09-10T05:00:13.946415Z" count="1"/>
           <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2023-09-10T05:00:32.066851Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.config/Android%20Open%20Source%20Project/Emulator.conf" added="2023-09-10T05:13:57.174319Z" modified="2023-09-10T05:13:57.174358Z" visited="2023-09-10T05:13:57.174344Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-10T05:13:57.174351Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.dart/README.txt" added="2023-09-10T05:14:42.863216Z" modified="2023-09-10T05:14:42.863233Z" visited="2023-09-10T05:14:42.863221Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-10T05:14:42.863226Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.dart/dartdev.json" added="2023-09-10T05:14:47.708037Z" modified="2023-09-10T05:15:07.088053Z" visited="2023-09-10T05:14:47.708042Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2023-09-10T05:15:07.088041Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.dart/analytics.json" added="2023-09-10T05:15:12.083337Z" modified="2023-09-10T05:15:25.797009Z" visited="2023-09-10T05:15:12.083342Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2023-09-10T05:15:25.796992Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>

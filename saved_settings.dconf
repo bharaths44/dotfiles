@@ -181,7 +181,7 @@ migrated-gtk-settings=true
 search-filter-time-type='last_modified'
 
 [org/gnome/nautilus/window-state]
-initial-size=(954, 1032)
+initial-size=(1920, 1040)
 maximized=false
 
 [org/gnome/portal/filechooser/com.usebottles.bottles]
@@ -356,7 +356,7 @@ selected-color=(true, 0.10196078568696976, 0.37254902720451355, 0.70588237047195
 [org/gtk/gtk4/settings/file-chooser]
 date-format='regular'
 location-mode='path-bar'
-show-hidden=true
+show-hidden=false
 show-size-column=true
 show-type-column=true
 sidebar-width=140

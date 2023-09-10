@@ -4,16 +4,16 @@
     <application id="org.gnome.clocks.desktop" score="2" last-seen="1693855578"/>
     <application id="org.gnome.Calendar.desktop" score="1" last-seen="1694067163"/>
     <application id="org.gnome.tweaks.desktop" score="14" last-seen="1693727916"/>
-    <application id="org.gnome.TextEditor.desktop" score="50" last-seen="1694241076"/>
+    <application id="org.gnome.TextEditor.desktop" score="51" last-seen="1694322936"/>
     <application id="org.gnome.Software.desktop" score="68" last-seen="1694194586"/>
     <application id="org.gnome.Shell.Extensions.desktop" score="17" last-seen="1694238913"/>
     <application id="io.missioncenter.MissionCenter.desktop" score="7" last-seen="1694067777"/>
     <application id="msedge-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop" score="17" last-seen="1694238353"/>
     <application id="org.gnome.Shell.Extensions.GSConnect.Preferences.desktop" score="8" last-seen="1693836836"/>
-    <application id="com.gexperts.Tilix.desktop" score="521" last-seen="1694322521"/>
+    <application id="com.gexperts.Tilix.desktop" score="529" last-seen="1694322878"/>
     <application id="org.gnome.Terminal.Preferences.desktop" score="4" last-seen="1693727927"/>
     <application id="org.gnome.eog.desktop" score="1" last-seen="1693810267"/>
-    <application id="microsoft-edge.desktop" score="8025" last-seen="1694322518"/>
+    <application id="microsoft-edge.desktop" score="8053" last-seen="1694322938"/>
     <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1693991182"/>
     <application id="org.freedesktop.GnomeAbrt.desktop" score="1" last-seen="1693917882"/>
     <application id="google-chrome-unstable.desktop" score="67" last-seen="1694237815"/>
@@ -22,8 +22,8 @@
     <application id="org.gnome.Terminal.desktop" score="1148" last-seen="1694242124"/>
     <application id="grub-customizer.desktop" score="24" last-seen="1693728826"/>
     <application id="vlc.desktop" score="148" last-seen="1694322428"/>
-    <application id="org.gnome.Nautilus.desktop" score="427" last-seen="1694322519"/>
-    <application id="code.desktop" score="320" last-seen="1694194803"/>
+    <application id="org.gnome.Nautilus.desktop" score="437" last-seen="1694322936"/>
+    <application id="code.desktop" score="320" last-seen="1694323001"/>
     <application id="org.telegram.desktop.desktop" score="288" last-seen="1693991003"/>
     <application id="org.gnome.Totem.desktop" score="2" last-seen="1694322022"/>
     <application id="org.gnome.Settings.desktop" score="5585" last-seen="1694157819"/>

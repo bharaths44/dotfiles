@@ -7,9 +7,15 @@ x-scheme-handler/unknown=microsoft-edge.desktop
 x-scheme-handler/postman=Postman.desktop
 video/x-ms-wmv=vlc.desktop
 x-scheme-handler/mailto=microsoft-edge.desktop
+application/json=code.desktop
+application/x-zerosize=code.desktop
+text/plain=code.desktop
 
 [Added Associations]
 application/octet-stream=org.gnome.TextEditor.desktop;
 x-scheme-handler/sms=org.gnome.Shell.Extensions.GSConnect.desktop;
 x-scheme-handler/tel=org.gnome.Shell.Extensions.GSConnect.desktop;
 video/x-ms-wmv=vlc.desktop;
+application/json=code.desktop;
+application/x-zerosize=code.desktop;
+text/plain=code.desktop;
