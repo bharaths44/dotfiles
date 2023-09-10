@@ -1062,4 +1062,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/bharaths/Documents/.git-credentials" added="2023-09-10T05:25:23.065832Z" modified="2023-09-10T05:25:23.065843Z" visited="2023-09-10T05:25:23.065835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2023-09-10T05:25:23.065839Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>
