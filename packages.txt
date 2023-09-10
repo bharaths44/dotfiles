@@ -11,7 +11,7 @@ ansible-srpm-macros-1-10.fc38.noarch
 binutils-2.39-9.fc38.x86_64
 binutils-gold-2.39-9.fc38.x86_64
 bison-3.8.2-4.fc38.x86_64
-code-1.81.1-1691620770.el7.x86_64
+code-1.82.0-1694039344.el7.x86_64
 cronie-1.6.1-4.fc38.x86_64
 cronie-anacron-1.6.1-4.fc38.x86_64
 crontabs-1.11-29.20190603git.fc38.noarch
@@ -25,6 +25,7 @@ egl-wayland-1.1.12-2.fc38.x86_64
 elfutils-libelf-devel-0.189-3.fc38.x86_64
 fakeroot-1.31-1.fc38.x86_64
 fakeroot-libs-1.31-1.fc38.x86_64
+ffmpeg-free-6.0-4.fc38.x86_64
 flex-2.6.4-12.fc38.x86_64
 fonts-srpm-macros-1:2.0.5-11.fc38.noarch
 fpc-srpm-macros-1.3-7.fc38.noarch
@@ -35,43 +36,54 @@ ghc-srpm-macros-1.6.1-1.fc38.noarch
 glibc-devel-2.37-4.fc38.x86_64
 glibc-headers-x86-2.37-4.fc38.noarch
 gnat-srpm-macros-6-2.fc38.noarch
+gnome-shell-extension-gsconnect-55-1.fc38.x86_64
 gnome-tweaks-42~beta-5.fc38.noarch
 go-srpm-macros-3.2.0-2.fc38.noarch
+google-chrome-unstable-118.0.5993.3-1.x86_64
 grub-customizer-5.2.3-1.fc38.x86_64
 guile22-2.2.7-7.fc38.x86_64
 htop-3.2.2-2.fc38.x86_64
 http-parser-2.9.4-8.fc38.x86_64
-kernel-6.2.9-300.fc38.x86_64
 kernel-6.4.12-200.fc38.x86_64
 kernel-6.4.13-200.fc38.x86_64
+kernel-6.4.14-200.fc38.x86_64
 kernel-devel-6.4.12-200.fc38.x86_64
 kernel-devel-6.4.13-200.fc38.x86_64
-kernel-devel-matched-6.4.13-200.fc38.x86_64
+kernel-devel-6.4.14-200.fc38.x86_64
+kernel-devel-matched-6.4.14-200.fc38.x86_64
 kernel-headers-6.4.4-200.fc38.x86_64
-kernel-modules-6.2.9-300.fc38.x86_64
 kernel-modules-6.4.12-200.fc38.x86_64
 kernel-modules-6.4.13-200.fc38.x86_64
-kernel-modules-extra-6.2.9-300.fc38.x86_64
+kernel-modules-6.4.14-200.fc38.x86_64
 kernel-modules-extra-6.4.12-200.fc38.x86_64
 kernel-modules-extra-6.4.13-200.fc38.x86_64
+kernel-modules-extra-6.4.14-200.fc38.x86_64
 kernel-srpm-macros-1.0-19.fc38.noarch
 kmod-nvidia-6.4.12-200.fc38.x86_64-3:535.104.05-1.fc38.x86_64
 kmod-nvidia-6.4.13-200.fc38.x86_64-3:535.104.05-1.fc38.x86_64
+kmod-nvidia-6.4.14-200.fc38.x86_64-3:535.104.05-1.fc38.x86_64
 kmodtool-1.1-7.fc38.noarch
 koji-1.33.0-1.fc38.noarch
 langpacks-en-3.0-32.fc38.noarch
+libavc1394-0.5.4-19.fc38.x86_64
+libavdevice-free-6.0-4.fc38.x86_64
+libdc1394-2.2.6-9.fc38.x86_64
 liberation-fonts-1:2.1.5-4.fc38.noarch
 libgit2-1.6.4-1.fc38.x86_64
+libiec61883-1.2.0-31.fc38.x86_64
+libraw1394-2.1.2-17.fc38.x86_64
 libxcrypt-devel-4.4.36-1.fc38.x86_64
 libzstd-devel-1.5.5-1.fc38.x86_64
 livesys-scripts-0.4.3-1.fc38.noarch
 lua-srpm-macros-1-8.fc38.noarch
 m4-1.4.19-5.fc38.x86_64
 make-1:4.4-3.fc38.x86_64
-microsoft-edge-stable-116.0.1938.69-1.x86_64
+microsoft-edge-stable-116.0.1938.76-1.x86_64
 neofetch-7.1.0-9.fc38.noarch
+nodejs-1:18.17.1-1.fc38.x86_64
 nvidia-settings-3:535.104.05-1.fc38.x86_64
 ocaml-srpm-macros-7-3.fc38.noarch
+openal-soft-1.23.1-1.fc38.x86_64
 openblas-srpm-macros-2-13.fc38.noarch
 openssl-1:3.0.9-2.fc38.x86_64
 openssl-devel-1:3.0.9-2.fc38.x86_64
@@ -86,7 +98,7 @@ python3-gssapi-1.7.3-4.fc38.x86_64
 python3-koji-1.33.0-1.fc38.noarch
 python3-progressbar2-3.53.2-7.fc38.noarch
 python3-pygit2-1.12.2-1.fc38.x86_64
-python3-pytz-2023.3-1.fc38.noarch
+python3-pytz-2023.3.post1-1.fc38.noarch
 python3-requests-gssapi-1.2.3-7.fc38.noarch
 python3-rpmautospec-0.3.5-1.fc38.noarch
 python3-utils-3.3.3-2.fc38.noarch
@@ -95,9 +107,15 @@ redhat-rpm-config-252-1.fc38.noarch
 rpm-build-4.18.1-3.fc38.x86_64
 rpmautospec-rpm-macros-0.3.5-1.fc38.noarch
 rpmdevtools-9.6-3.fc38.noarch
+rpmfusion-free-release-38-1.noarch
+rpmfusion-nonfree-release-38-1.noarch
 rust-srpm-macros-24-5.fc38.noarch
+snapd-2.58.3-1.fc38.x86_64
+stacer-1.1.0-16.fc38.x86_64
 systemd-rpm-macros-253.7-1.fc38.noarch
 tilix-1.9.5-9.fc38.x86_64
+vlc-1:3.0.19-0.7.fc38.x86_64
+xinput-1.6.3-6.fc38.x86_64
 xorg-x11-drv-nvidia-3:535.104.05-1.fc38.x86_64
 xorg-x11-drv-nvidia-cuda-libs-3:535.104.05-1.fc38.x86_64
 xorg-x11-drv-nvidia-kmodsrc-3:535.104.05-1.fc38.x86_64
@@ -106,6 +124,6 @@ xorg-x11-drv-nvidia-power-3:535.104.05-1.fc38.x86_64
 zlib-devel-1.2.13-3.fc38.x86_64
 zstd-1.5.5-1.fc38.x86_64
 Spotify	com.spotify.Client	1.2.11.916.geb595a67	stable	flathub	system
-Mission Center	io.missioncenter.MissionCenter	0.3.1	stable	flathub	system
+Mission Center	io.missioncenter.MissionCenter	0.3.2	stable	flathub	system
 Gwenview	org.kde.gwenview	23.04.3	stable	fedora	system
-Telegram Desktop	org.telegram.desktop	4.9.4	stable	flathub	system
+Telegram Desktop	org.telegram.desktop	4.9.5	stable	flathub	system

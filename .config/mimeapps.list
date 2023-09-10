@@ -4,6 +4,11 @@ x-scheme-handler/http=microsoft-edge.desktop
 x-scheme-handler/https=microsoft-edge.desktop
 x-scheme-handler/about=microsoft-edge.desktop
 x-scheme-handler/unknown=microsoft-edge.desktop
+x-scheme-handler/postman=Postman.desktop
+video/x-ms-wmv=vlc.desktop
 
 [Added Associations]
 application/octet-stream=org.gnome.TextEditor.desktop;
+x-scheme-handler/sms=org.gnome.Shell.Extensions.GSConnect.desktop;
+x-scheme-handler/tel=org.gnome.Shell.Extensions.GSConnect.desktop;
+video/x-ms-wmv=vlc.desktop;

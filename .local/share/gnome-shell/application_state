@@ -1,22 +1,31 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
+    <application id="org.gnome.clocks.desktop" score="2" last-seen="1693855578"/>
+    <application id="org.gnome.Calendar.desktop" score="1" last-seen="1694067163"/>
     <application id="org.gnome.tweaks.desktop" score="14" last-seen="1693727916"/>
-    <application id="org.gnome.TextEditor.desktop" score="33" last-seen="1693811310"/>
-    <application id="org.gnome.Software.desktop" score="56" last-seen="1693732494"/>
-    <application id="org.gnome.Shell.Extensions.desktop" score="15" last-seen="1693810616"/>
-    <application id="com.gexperts.Tilix.desktop" score="138" last-seen="1693814128"/>
+    <application id="org.gnome.TextEditor.desktop" score="50" last-seen="1694241076"/>
+    <application id="org.gnome.Software.desktop" score="68" last-seen="1694194586"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="17" last-seen="1694238913"/>
+    <application id="io.missioncenter.MissionCenter.desktop" score="7" last-seen="1694067777"/>
+    <application id="msedge-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop" score="17" last-seen="1694238353"/>
+    <application id="org.gnome.Shell.Extensions.GSConnect.Preferences.desktop" score="8" last-seen="1693836836"/>
+    <application id="com.gexperts.Tilix.desktop" score="513" last-seen="1694235065"/>
     <application id="org.gnome.Terminal.Preferences.desktop" score="4" last-seen="1693727927"/>
-    <application id="microsoft-edge.desktop" score="642" last-seen="1693814127"/>
-    <application id="org.gnome.Nautilus.desktop" score="213" last-seen="1693814131"/>
-    <application id="grub-customizer.desktop" score="24" last-seen="1693728826"/>
-    <application id="org.gnome.Weather.desktop" score="4" last-seen="1693810073"/>
-    <application id="nvidia-settings.desktop" score="2" last-seen="1693687924"/>
-    <application id="org.gnome.font-viewer.desktop" score="1" last-seen="1693726997"/>
-    <application id="org.gnome.Terminal.desktop" score="1102" last-seen="1693811348"/>
     <application id="org.gnome.eog.desktop" score="1" last-seen="1693810267"/>
-    <application id="code.desktop" score="312" last-seen="1693814125"/>
-    <application id="com.spotify.Client.desktop" score="1" last-seen="1693687224"/>
-    <application id="org.gnome.Settings.desktop" score="39" last-seen="1693810664"/>
+    <application id="microsoft-edge.desktop" score="8015" last-seen="1694322024"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1693991182"/>
+    <application id="org.freedesktop.GnomeAbrt.desktop" score="1" last-seen="1693917882"/>
+    <application id="google-chrome-unstable.desktop" score="67" last-seen="1694237815"/>
+    <application id="org.gnome.Weather.desktop" score="8" last-seen="1693855610"/>
+    <application id="org.gnome.font-viewer.desktop" score="1" last-seen="1693726997"/>
+    <application id="org.gnome.Terminal.desktop" score="1148" last-seen="1694242124"/>
+    <application id="grub-customizer.desktop" score="24" last-seen="1693728826"/>
+    <application id="vlc.desktop" score="104" last-seen="1694322035"/>
+    <application id="org.gnome.Nautilus.desktop" score="427" last-seen="1694322065"/>
+    <application id="code.desktop" score="320" last-seen="1694194803"/>
+    <application id="org.telegram.desktop.desktop" score="288" last-seen="1693991003"/>
+    <application id="org.gnome.Totem.desktop" score="2" last-seen="1694322022"/>
+    <application id="org.gnome.Settings.desktop" score="5585" last-seen="1694157819"/>
   </context>
 </application-state>
