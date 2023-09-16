@@ -1,2 +1,6 @@
-2023/09/03-02:08:33.614 2b Creating DB /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/Local Storage/leveldb since it was missing.
-2023/09/03-02:08:33.623 2b Reusing MANIFEST /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/Local Storage/leveldb/MANIFEST-000001
+2023/09/14-21:10:38.570 35 Reusing MANIFEST /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/Local Storage/leveldb/MANIFEST-000001
+2023/09/14-21:10:38.574 35 Recovering log #4
+2023/09/14-21:10:38.576 35 Reusing old log /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/Local Storage/leveldb/000004.log 
+2023/09/14-21:11:38.696 36 Level-0 table #8: started
+2023/09/14-21:11:38.705 36 Level-0 table #8: 40342 bytes OK
+2023/09/14-21:11:38.710 36 Delete type=0 #4

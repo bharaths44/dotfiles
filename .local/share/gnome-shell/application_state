@@ -1,31 +1,25 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.clocks.desktop" score="2" last-seen="1693855578"/>
-    <application id="org.gnome.Calendar.desktop" score="1" last-seen="1694067163"/>
-    <application id="org.gnome.tweaks.desktop" score="14" last-seen="1693727916"/>
-    <application id="org.gnome.TextEditor.desktop" score="51" last-seen="1694322936"/>
-    <application id="org.gnome.Software.desktop" score="68" last-seen="1694194586"/>
-    <application id="org.gnome.Shell.Extensions.desktop" score="17" last-seen="1694238913"/>
-    <application id="io.missioncenter.MissionCenter.desktop" score="7" last-seen="1694067777"/>
-    <application id="msedge-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop" score="17" last-seen="1694238353"/>
-    <application id="org.gnome.Shell.Extensions.GSConnect.Preferences.desktop" score="8" last-seen="1693836836"/>
-    <application id="com.gexperts.Tilix.desktop" score="590" last-seen="1694323627"/>
-    <application id="org.gnome.Terminal.Preferences.desktop" score="4" last-seen="1693727927"/>
-    <application id="org.gnome.eog.desktop" score="1" last-seen="1693810267"/>
-    <application id="microsoft-edge.desktop" score="8068" last-seen="1694323606"/>
-    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1693991182"/>
-    <application id="org.freedesktop.GnomeAbrt.desktop" score="1" last-seen="1693917882"/>
-    <application id="google-chrome-unstable.desktop" score="67" last-seen="1694237815"/>
-    <application id="org.gnome.Weather.desktop" score="8" last-seen="1693855610"/>
-    <application id="org.gnome.font-viewer.desktop" score="1" last-seen="1693726997"/>
-    <application id="org.gnome.Terminal.desktop" score="1148" last-seen="1694242124"/>
-    <application id="grub-customizer.desktop" score="24" last-seen="1693728826"/>
-    <application id="vlc.desktop" score="148" last-seen="1694322428"/>
-    <application id="org.gnome.Nautilus.desktop" score="453" last-seen="1694323523"/>
-    <application id="code.desktop" score="321" last-seen="1694323636"/>
-    <application id="org.telegram.desktop.desktop" score="288" last-seen="1693991003"/>
-    <application id="org.gnome.Totem.desktop" score="2" last-seen="1694322022"/>
-    <application id="org.gnome.Settings.desktop" score="5585" last-seen="1694157819"/>
+    <application id="org.gnome.tweaks.desktop" score="3" last-seen="1694618933"/>
+    <application id="org.gnome.TextEditor.desktop" score="58" last-seen="1694619012"/>
+    <application id="org.gnome.Software.desktop" score="71" last-seen="1694873165"/>
+    <application id="com.github.wwmm.easyeffects.desktop" score="155" last-seen="1694706296"/>
+    <application id="msedge-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop" score="28" last-seen="1694858788"/>
+    <application id="code-url-handler.desktop" score="0" last-seen="1694617270"/>
+    <application id="com.gexperts.Tilix.desktop" score="820" last-seen="1694869639"/>
+    <application id="stacer.desktop" score="4" last-seen="1694792639"/>
+    <application id="microsoft-edge.desktop" score="11424" last-seen="1694880169"/>
+    <application id="org.gnome.Totem.desktop" score="1456" last-seen="1694884229"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1694526695"/>
+    <application id="google-chrome-unstable.desktop" score="69" last-seen="1694351260"/>
+    <application id="org.telegram.desktop.desktop" score="5" last-seen="1694873089"/>
+    <application id="org.gnome.font-viewer.desktop" score="0" last-seen="1694616090"/>
+    <application id="org.gnome.Terminal.desktop" score="1166" last-seen="1694532570"/>
+    <application id="vlc.desktop" score="1126" last-seen="1694876286"/>
+    <application id="org.gnome.Nautilus.desktop" score="532" last-seen="1694884234"/>
+    <application id="code.desktop" score="533" last-seen="1694792153"/>
+    <application id="com.spotify.Client.desktop" score="1196" last-seen="1694714561"/>
+    <application id="org.gnome.Settings.desktop" score="16882" last-seen="1694706229"/>
   </context>
 </application-state>

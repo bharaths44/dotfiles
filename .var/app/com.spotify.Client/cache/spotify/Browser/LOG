@@ -1,2 +1,3 @@
-2023/09/03-02:08:33.630 10 Creating DB /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser since it was missing.
-2023/09/03-02:08:33.641 10 Reusing MANIFEST /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/MANIFEST-000001
+2023/09/14-21:10:38.589 13 Reusing MANIFEST /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/MANIFEST-000001
+2023/09/14-21:10:38.592 13 Recovering log #3
+2023/09/14-21:10:38.592 13 Reusing old log /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/000003.log 

@@ -102,11 +102,11 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/saved_settings.dconf" added="2023-09-03T09:15:01.675734Z" modified="2023-09-10T05:15:36.876676Z" visited="2023-09-10T10:45:34.759527+05:30">
+  <bookmark href="file:///home/bharaths/saved_settings.dconf" added="2023-09-03T09:15:01.675734Z" modified="2023-09-13T15:30:12.452598Z" visited="2023-09-13T20:49:47.843095+05:30">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-10T05:15:36.876674Z" count="57"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-13T15:30:12.452595Z" count="67"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -156,11 +156,11 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/.flutter" added="2023-09-04T16:46:49.632639Z" modified="2023-09-10T05:15:36.876684Z" visited="2023-09-10T10:45:34.745276+05:30">
+  <bookmark href="file:///home/bharaths/.flutter" added="2023-09-04T16:46:49.632639Z" modified="2023-09-13T15:30:12.452627Z" visited="2023-09-13T20:49:47.837848+05:30">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-10T05:15:36.876681Z" count="10"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-13T15:30:12.452625Z" count="20"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -192,11 +192,11 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/android-studio/Install-Linux-tar.txt" added="2023-09-07T06:03:54.631879Z" modified="2023-09-08T06:28:28.940925Z" visited="2023-09-08T11:01:19.743822+05:30">
+  <bookmark href="file:///home/bharaths/android-studio/Install-Linux-tar.txt" added="2023-09-07T06:03:54.631879Z" modified="2023-09-13T15:30:12.452621Z" visited="2023-09-13T20:49:47.829897+05:30">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-08T06:28:28.940923Z" count="4"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-13T15:30:12.452618Z" count="12"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -273,11 +273,38 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/.dart/analytics.json" added="2023-09-10T05:15:14.411111Z" modified="2023-09-10T05:15:36.876668Z" visited="2023-09-10T10:45:34.743455+05:30">
+  <bookmark href="file:///home/bharaths/.dart/analytics.json" added="2023-09-10T05:15:14.411111Z" modified="2023-09-13T15:30:12.452582Z" visited="2023-09-13T20:49:47.826877+05:30">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-10T05:15:36.876663Z" count="2"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-13T15:30:12.452576Z" count="12"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/android-studio/build.txt" added="2023-09-13T14:33:36.643476Z" modified="2023-09-13T15:30:12.452606Z" visited="2023-09-13T20:49:47.828064+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-13T15:30:12.452603Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.vscode/argv.json" added="2023-09-13T15:19:50.618230Z" modified="2023-09-13T15:30:12.452591Z" visited="2023-09-13T20:49:47.838990+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-13T15:30:12.452588Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.config/Code/Preferences" added="2023-09-13T15:19:50.618257Z" modified="2023-09-13T15:30:12.452613Z" visited="2023-09-13T20:49:47.767672+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-13T15:30:12.452610Z" count="4"/>
         </bookmark:applications>
       </metadata>
     </info>

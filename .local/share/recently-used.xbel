@@ -916,12 +916,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/android-studio/Install-Linux-tar.txt" added="2023-09-07T06:03:51.365212Z" modified="2023-09-07T06:03:51.365233Z" visited="2023-09-07T06:03:51.365219Z">
+  <bookmark href="file:///home/bharaths/android-studio/Install-Linux-tar.txt" added="2023-09-07T06:03:51.365212Z" modified="2023-09-13T14:33:38.705575Z" visited="2023-09-07T06:03:51.365219Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-07T06:03:51.365226Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-13T14:33:38.705570Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1068,6 +1068,217 @@
         <mime:mime-type type="text/plain"/>
         <bookmark:applications>
           <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2023-09-10T05:25:23.065839Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/M5%202.wmv" added="2023-09-10T05:48:35.272798Z" modified="2023-09-10T05:48:35.272816Z" visited="2023-09-10T05:48:35.272803Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-ms-wmv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2023-09-10T05:48:35.272810Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/M5%203.wmv" added="2023-09-10T06:17:21.754069Z" modified="2023-09-10T06:17:21.754082Z" visited="2023-09-10T06:17:21.754073Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-ms-wmv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2023-09-10T06:17:21.754077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/M5%204.wmv" added="2023-09-10T06:31:09.324700Z" modified="2023-09-10T06:31:09.324720Z" visited="2023-09-10T06:31:09.324705Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-ms-wmv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2023-09-10T06:31:09.324711Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/M5%205.wmv" added="2023-09-10T06:53:32.859133Z" modified="2023-09-10T06:53:32.859151Z" visited="2023-09-10T06:53:32.859137Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-ms-wmv"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/bin/vlc --started-from-file %U&apos;" modified="2023-09-10T06:53:32.859145Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/android-studio/bin/studio.sh" added="2023-09-10T13:03:01.916132Z" modified="2023-09-12T13:50:33.463741Z" visited="2023-09-10T13:03:01.916137Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2023-09-12T13:50:33.463734Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/StudioProjects/newsapp/README.md" added="2023-09-12T13:56:51.946129Z" modified="2023-09-12T13:56:51.946147Z" visited="2023-09-12T13:56:51.946134Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2023-09-12T13:56:51.946139Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/android-studio/build.txt" added="2023-09-13T14:33:33.320847Z" modified="2023-09-13T14:33:33.320858Z" visited="2023-09-13T14:33:33.320850Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-13T14:33:33.320853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/android-studio" added="2023-09-13T14:40:52.733294Z" modified="2023-09-13T14:40:52.733313Z" visited="2023-09-13T14:40:52.733298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-09-13T14:40:52.733305Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/StudioProjects/newsapp/analysis_options.yaml" added="2023-09-13T14:43:23.773741Z" modified="2023-09-13T14:43:23.773760Z" visited="2023-09-13T14:43:23.773746Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-09-13T14:43:23.773752Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/StudioProjects/newsapp" added="2023-09-13T14:44:03.001299Z" modified="2023-09-13T14:44:03.001317Z" visited="2023-09-13T14:44:03.001304Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-09-13T14:44:03.001310Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Android" added="2023-09-13T14:59:12.765624Z" modified="2023-09-13T14:59:12.765639Z" visited="2023-09-13T14:59:12.765628Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-09-13T14:59:12.765633Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/StudioProjects" added="2023-09-13T14:59:28.210427Z" modified="2023-09-13T15:22:11.110346Z" visited="2023-09-13T14:59:28.210431Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2023-09-13T15:22:11.110339Z" count="2"/>
+          <bookmark:application name="code-insiders" exec="&apos;code-insiders %u&apos;" modified="2023-09-13T15:07:01.728257Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.config/Code/Preferences" added="2023-09-13T15:19:03.330397Z" modified="2023-09-13T15:19:03.330414Z" visited="2023-09-13T15:19:03.330402Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-13T15:19:03.330408Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.vscode/argv.json" added="2023-09-13T15:19:47.264146Z" modified="2023-09-13T15:19:47.264167Z" visited="2023-09-13T15:19:47.264151Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-13T15:19:47.264157Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/S4_2021_H_U2109018.pdf" added="2023-09-15T14:22:39.909132Z" modified="2023-09-15T14:22:39.910939Z" visited="2023-09-15T14:22:39.909136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2023-09-15T14:22:39.910933Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Videos/%5BTIF%5D_S01_E02_Scam_2003_1080p_Hin.mkv" added="2023-09-16T14:17:38.046062Z" modified="2023-09-16T14:58:15.434772Z" visited="2023-09-16T14:17:38.046067Z">
+    <title>[TIF]_S01_E02_Scam_2003_1080p_Hin.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;totem %U&apos;" modified="2023-09-16T14:58:14.675416Z" count="6"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-09-16T14:58:15.434768Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Videos/%5BTIF%5D_S01_E03_Scam_2003_1080p_Hin.mkv" added="2023-09-16T15:00:04.794465Z" modified="2023-09-16T15:00:05.411477Z" visited="2023-09-16T15:00:04.794468Z">
+    <title>[TIF]_S01_E03_Scam_2003_1080p_Hin.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;totem %U&apos;" modified="2023-09-16T15:00:04.794472Z" count="1"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-09-16T15:00:05.411472Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Videos/%5BTIF%5D_S01_E04_Scam_2003_1080p_Hin.mkv" added="2023-09-16T15:38:09.816163Z" modified="2023-09-16T15:38:10.417228Z" visited="2023-09-16T15:38:09.816168Z">
+    <title>[TIF]_S01_E04_Scam_2003_1080p_Hin.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;totem %U&apos;" modified="2023-09-16T15:38:09.816173Z" count="1"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-09-16T15:38:10.417223Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Videos/%5BTIF%5D_S01_E05_Scam_2003_1080p_Hin.mkv" added="2023-09-16T16:43:44.796541Z" modified="2023-09-16T16:43:45.389378Z" visited="2023-09-16T16:43:44.796546Z">
+    <title>[TIF]_S01_E05_Scam_2003_1080p_Hin.mkv</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:groups>
+          <bookmark:group>Totem</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;totem %U&apos;" modified="2023-09-16T16:43:44.796551Z" count="1"/>
+          <bookmark:application name="Videos" exec="&apos;totem %u&apos;" modified="2023-09-16T16:43:45.389373Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
