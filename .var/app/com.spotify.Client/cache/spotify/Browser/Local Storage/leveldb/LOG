@@ -1,6 +1,18 @@
-2023/09/14-21:10:38.570 35 Reusing MANIFEST /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/Local Storage/leveldb/MANIFEST-000001
-2023/09/14-21:10:38.574 35 Recovering log #4
-2023/09/14-21:10:38.576 35 Reusing old log /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/Local Storage/leveldb/000004.log 
-2023/09/14-21:11:38.696 36 Level-0 table #8: started
-2023/09/14-21:11:38.705 36 Level-0 table #8: 40342 bytes OK
-2023/09/14-21:11:38.710 36 Delete type=0 #4
+2023/09/23-10:47:20.178 35 Reusing MANIFEST /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/Local Storage/leveldb/MANIFEST-000001
+2023/09/23-10:47:20.179 35 Recovering log #13
+2023/09/23-10:47:20.181 35 Reusing old log /home/bharaths/.var/app/com.spotify.Client/cache/spotify/Browser/Local Storage/leveldb/000013.log 
+2023/09/23-10:48:20.338 37 Level-0 table #17: started
+2023/09/23-10:48:20.343 37 Level-0 table #17: 55188 bytes OK
+2023/09/23-10:48:20.348 37 Delete type=0 #13
+2023/09/23-12:54:16.138 37 Level-0 table #19: started
+2023/09/23-12:54:16.142 37 Level-0 table #19: 10027 bytes OK
+2023/09/23-12:54:16.151 37 Delete type=0 #16
+2023/09/23-12:54:16.152 37 Compacting 4@0 + 1@1 files
+2023/09/23-12:54:16.160 37 Generated table #20@0: 825 keys, 16061 bytes
+2023/09/23-12:54:16.163 37 Compacted 4@0 + 1@1 files => 16061 bytes
+2023/09/23-12:54:16.166 37 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/23-12:54:16.167 37 Delete type=2 #8
+2023/09/23-12:54:16.167 37 Delete type=2 #11
+2023/09/23-12:54:16.167 37 Delete type=2 #14
+2023/09/23-12:54:16.167 37 Delete type=2 #17
+2023/09/23-12:54:16.167 37 Delete type=2 #19

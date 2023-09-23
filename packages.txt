@@ -5,8 +5,8 @@ akmods-0.5.7-10.fc38.noarch
 anaconda-38.23.4-2.fc38.x86_64
 anaconda-install-env-deps-38.23.4-2.fc38.x86_64
 anaconda-live-38.23.4-2.fc38.x86_64
-annobin-docs-12.23-1.fc38.noarch
-annobin-plugin-gcc-12.23-1.fc38.x86_64
+annobin-docs-12.26-1.fc38.noarch
+annobin-plugin-gcc-12.26-1.fc38.x86_64
 ansible-srpm-macros-1-10.fc38.noarch
 binutils-2.39-9.fc38.x86_64
 binutils-gold-2.39-9.fc38.x86_64
@@ -18,7 +18,7 @@ crontabs-1.11-29.20190603git.fc38.noarch
 debugedit-5.0-9.fc38.x86_64
 dracut-live-059-3.fc38.x86_64
 dwz-0.15-2.fc38.x86_64
-easyeffects-7.0.8-1.fc38.x86_64
+easyeffects-7.1.0-1.fc38.x86_64
 ed-1.19-2.fc38.x86_64
 efi-srpm-macros-5-7.fc38.noarch
 egl-gbm-1.1.0-4.fc38.x86_64
@@ -85,7 +85,7 @@ livesys-scripts-0.4.3-1.fc38.noarch
 lua-srpm-macros-1-8.fc38.noarch
 m4-1.4.19-5.fc38.x86_64
 make-1:4.4.1-1.fc38.x86_64
-microsoft-edge-stable-116.0.1938.81-1.x86_64
+microsoft-edge-stable-117.0.2045.35-1.x86_64
 neofetch-7.1.0-9.fc38.noarch
 nodejs-1:18.17.1-1.fc38.x86_64
 nvidia-settings-3:535.104.05-1.fc38.x86_64
@@ -120,7 +120,7 @@ rust-srpm-macros-24-5.fc38.noarch
 snapd-2.58.3-1.fc38.x86_64
 speedtest-cli-2.1.3-7.fc38.noarch
 stacer-1.1.0-16.fc38.x86_64
-systemd-rpm-macros-253.9-1.fc38.noarch
+systemd-rpm-macros-253.10-1.fc38.noarch
 tilix-1.9.5-9.fc38.x86_64
 vlc-1:3.0.19-0.7.fc38.x86_64
 xinput-1.6.3-6.fc38.x86_64
@@ -131,7 +131,7 @@ xorg-x11-drv-nvidia-libs-3:535.104.05-1.fc38.x86_64
 xorg-x11-drv-nvidia-power-3:535.104.05-1.fc38.x86_64
 zlib-devel-1.2.13-3.fc38.x86_64
 zstd-1.5.5-1.fc38.x86_64
-Spotify	com.spotify.Client	1.2.11.916.geb595a67	stable	flathub	system
+Spotify	com.spotify.Client	1.2.13.661.ga588f749	stable	flathub	system
 Mission Center	io.missioncenter.MissionCenter	0.3.2	stable	flathub	system
 Gwenview	org.kde.gwenview	23.04.3	stable	fedora	system
-Telegram Desktop	org.telegram.desktop	4.9.7	stable	flathub	system
+Telegram Desktop	org.telegram.desktop	4.9.9	stable	flathub	system

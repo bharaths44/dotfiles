@@ -17,9 +17,9 @@ show-native-plugin-ui=true
 shutdown-on-window-close=true
 use-dark-theme=true
 window-fullscreen=false
-window-height=1032
-window-maximized=true
-window-width=954
+window-height=1040
+window-maximized=false
+window-width=1920
 
 [com/github/wwmm/easyeffects/spectrum]
 color=(1.0, 1.0, 1.0, 1.0)
@@ -30,7 +30,7 @@ input-device='alsa_input.pci-0000_05_00.6.analog-stereo'
 
 [com/github/wwmm/easyeffects/streamoutputs]
 blocklist=@as []
-output-device='bluez_output.F4_4E_FD_00_00_E3.1'
+output-device='alsa_output.pci-0000_05_00.6.analog-stereo'
 plugins=['convolver#0']
 show-blocklisted-apps=true
 
@@ -57,10 +57,11 @@ sidechain-input-device='alsa_input.pci-0000_05_00.6.analog-stereo'
 threshold=-10.0
 
 [com/github/wwmm/easyeffects/streamoutputs/convolver/0]
+autogain=true
 input-gain=-2.0
 ir-width=100
 kernel-path='/home/bharaths/.config/easyeffects/irs/Razor Surround ((48k Z-Edition)) 2.Stereo +20 bass.irs'
-output-gain=2.6000000000000001
+output-gain=0.0
 
 [com/github/wwmm/easyeffects/streamoutputs/equalizer/0]
 balance=0.0
@@ -674,7 +675,7 @@ panel-id='world'
 size=(634, 514)
 
 [org/gnome/control-center]
-last-panel='sound'
+last-panel='online-accounts'
 window-state=(954, 514, false)
 
 [org/gnome/desktop/app-folders]
@@ -695,12 +696,16 @@ translate=true
 picture-uri='file:///home/bharaths/Downloads/wallpaperflare.com_wallpaper.jpg'
 picture-uri-dark='file:///home/bharaths/Downloads/wallpaperflare.com_wallpaper.jpg'
 
+[org/gnome/desktop/calendar]
+show-weekdate=false
+
 [org/gnome/desktop/input-sources]
 current=uint32 0
 sources=[('xkb', 'us')]
 xkb-options=@as []
 
 [org/gnome/desktop/interface]
+clock-show-weekday=true
 color-scheme='prefer-dark'
 document-font-name='Ubuntu Nerd Font 11'
 enable-hot-corners=false
@@ -713,7 +718,7 @@ text-scaling-factor=1.25
 toolkit-accessibility=false
 
 [org/gnome/desktop/notifications]
-application-children=['org-freedesktop-problems-applet', 'org-gnome-nautilus', 'org-gnome-terminal', 'com-usebottles-bottles', 'com-spotify-client', 'gnome-network-panel', 'org-gnome-software', 'org-gnome-font-viewer', 'org-gnome-terminal-preferences', 'org-gnome-texteditor', 'code', 'org-gnome-tweaks', 'grub-customizer', 'gnome-power-panel', 'org-gnome-shell-extensions-gsconnect', 'com-gexperts-tilix', 'org-telegram-desktop', 'org-gnome-calendar', 'google-chrome-unstable', 'org-gnome-shell-extensions', 'org-gnome-totem', 'com-github-wwmm-easyeffects', 'msedge-hnpfjngllnobngcgfapefoaidbinmjnm-default', 'microsoft-edge', 'stacer', 'code-insiders', 'org-freedesktop-gnomeabrt']
+application-children=['org-freedesktop-problems-applet', 'org-gnome-nautilus', 'org-gnome-terminal', 'com-usebottles-bottles', 'com-spotify-client', 'gnome-network-panel', 'org-gnome-software', 'org-gnome-font-viewer', 'org-gnome-terminal-preferences', 'org-gnome-texteditor', 'code', 'org-gnome-tweaks', 'grub-customizer', 'gnome-power-panel', 'org-gnome-shell-extensions-gsconnect', 'com-gexperts-tilix', 'org-telegram-desktop', 'org-gnome-calendar', 'google-chrome-unstable', 'org-gnome-shell-extensions', 'org-gnome-totem', 'com-github-wwmm-easyeffects', 'msedge-hnpfjngllnobngcgfapefoaidbinmjnm-default', 'microsoft-edge', 'stacer', 'code-insiders', 'org-freedesktop-gnomeabrt', 'org-gnome-eog', 'org-gnome-settings']
 show-banners=false
 
 [org/gnome/desktop/notifications/application/code-insiders]
@@ -761,11 +766,17 @@ application-id='org.freedesktop.problems.applet.desktop'
 [org/gnome/desktop/notifications/application/org-gnome-calendar]
 application-id='org.gnome.Calendar.desktop'
 
+[org/gnome/desktop/notifications/application/org-gnome-eog]
+application-id='org.gnome.eog.desktop'
+
 [org/gnome/desktop/notifications/application/org-gnome-font-viewer]
 application-id='org.gnome.font-viewer.desktop'
 
 [org/gnome/desktop/notifications/application/org-gnome-nautilus]
 application-id='org.gnome.Nautilus.desktop'
+
+[org/gnome/desktop/notifications/application/org-gnome-settings]
+application-id='org.gnome.Settings.desktop'
 
 [org/gnome/desktop/notifications/application/org-gnome-shell-extensions-gsconnect]
 application-id='org.gnome.Shell.Extensions.GSConnect.desktop'
@@ -823,6 +834,9 @@ focus-mode='sloppy'
 num-workspaces=6
 titlebar-font='FiraCode Nerd Font Bold 11'
 
+[org/gnome/evince/default]
+window-ratio=(1.2045454545454546, 0.83986928104575165)
+
 [org/gnome/evolution-data-server]
 migrated=true
 
@@ -840,7 +854,7 @@ migrated-gtk-settings=true
 search-filter-time-type='last_modified'
 
 [org/gnome/nautilus/window-state]
-initial-size=(954, 514)
+initial-size=(1920, 1040)
 maximized=false
 
 [org/gnome/portal/filechooser/com.usebottles.bottles]
@@ -866,8 +880,7 @@ last-selected-power-profile='power-saver'
 welcome-dialog-last-shown-version='44.0'
 
 [org/gnome/shell/extensions/caffeine]
-indicator-position-max=1
-toggle-state=true
+indicator-position-max=4
 
 [org/gnome/shell/extensions/dash-to-dock]
 apply-custom-theme=true
@@ -946,21 +959,21 @@ id='14243bc9-288a-4844-87cf-c6a7f8dcc278'
 name='fedora'
 
 [org/gnome/shell/extensions/gsconnect/device/0c69533f2b816819]
-incoming-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.contacts.request_all_uids_timestamps', 'kdeconnect.contacts.request_vcards_by_uid', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.action', 'kdeconnect.notification.reply', 'kdeconnect.notification.request', 'kdeconnect.photo.request', 'kdeconnect.ping', 'kdeconnect.runcommand', 'kdeconnect.sftp.request', 'kdeconnect.share.request', 'kdeconnect.share.request.update', 'kdeconnect.sms.request', 'kdeconnect.sms.request_attachment', 'kdeconnect.sms.request_conversation', 'kdeconnect.sms.request_conversations', 'kdeconnect.systemvolume', 'kdeconnect.telephony.request', 'kdeconnect.telephony.request_mute']
-last-connection='lan://192.168.29.253:1716'
+incoming-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.contacts.request_all_uids_timestamps', 'kdeconnect.contacts.request_vcards_by_uid', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.action', 'kdeconnect.notification.reply', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.runcommand', 'kdeconnect.sftp.request', 'kdeconnect.share.request', 'kdeconnect.share.request.update', 'kdeconnect.sms.request', 'kdeconnect.sms.request_attachment', 'kdeconnect.sms.request_conversation', 'kdeconnect.sms.request_conversations', 'kdeconnect.systemvolume', 'kdeconnect.telephony.request', 'kdeconnect.telephony.request_mute']
+last-connection='lan://192.168.29.166:1716'
 name='SM-G996B'
-outgoing-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report', 'kdeconnect.contacts.response_uids_timestamps', 'kdeconnect.contacts.response_vcards', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.request', 'kdeconnect.photo', 'kdeconnect.ping', 'kdeconnect.presenter', 'kdeconnect.runcommand.request', 'kdeconnect.sftp', 'kdeconnect.share.request', 'kdeconnect.sms.attachment_file', 'kdeconnect.sms.messages', 'kdeconnect.systemvolume.request', 'kdeconnect.telephony']
-supported-plugins=['battery', 'clipboard', 'connectivity_report', 'contacts', 'findmyphone', 'mousepad', 'mpris', 'notification', 'photo', 'ping', 'presenter', 'runcommand', 'sftp', 'share', 'sms', 'systemvolume', 'telephony']
+outgoing-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report', 'kdeconnect.contacts.response_uids_timestamps', 'kdeconnect.contacts.response_vcards', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.presenter', 'kdeconnect.runcommand.request', 'kdeconnect.sftp', 'kdeconnect.share.request', 'kdeconnect.sms.attachment_file', 'kdeconnect.sms.messages', 'kdeconnect.systemvolume.request', 'kdeconnect.telephony']
+supported-plugins=['battery', 'clipboard', 'connectivity_report', 'contacts', 'findmyphone', 'mousepad', 'mpris', 'notification', 'ping', 'presenter', 'runcommand', 'sftp', 'share', 'sms', 'systemvolume', 'telephony']
 type='phone'
 
 [org/gnome/shell/extensions/gsconnect/device/29c018a77a213777]
 certificate-pem='-----BEGIN CERTIFICATE-----\nMIIC9zCCAd+gAwIBAgIBATANBgkqhkiG9w0BAQsFADA/MRkwFwYDVQQDDBAyOWMw\nMThhNzdhMjEzNzc3MRQwEgYDVQQLDAtLREUgQ29ubmVjdDEMMAoGA1UECgwDS0RF\nMB4XDTIxMTIyMjE4MzAwMFoXDTMxMTIyMjE4MzAwMFowPzEZMBcGA1UEAwwQMjlj\nMDE4YTc3YTIxMzc3NzEUMBIGA1UECwwLS0RFIENvbm5lY3QxDDAKBgNVBAoMA0tE\nRTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKHUFVVJTYIM+WiwGHP1\nomtGulbKc6kuUBkV97j/+ScrZARY94E1FEy2GdP7pSXL4+7IcwL3LvMM7Dmu6r4z\nZ5AJ9BBnz/Jjoz0Z7A0+EzDut+EF1WgXUvBVl4SyOmOf6nKPHCFpoi6OzHfhfnYw\nzXvfHSD8+wwVVujn1SvvDjCw4XW5myvwStQFNp2smFtKgMu4bm4gxgj3uWLoEFfr\nRazDJ2VlCBRsyemzEeQ1Aswjx3fQ8nmos0V7M5+hsmdsJfsVNtpdLWzdLJazM6hs\n+GyrDaHS1xyu1cqQpMdr8I+XrkyCY4DwvlcmDe8fHL8s9C2/gs1cpYc7bilkS27w\nfbUCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAaPeJvmZkUEaC0iVJympkS04+t8oz\ng6OJX/mcN3bL03T5sC+y6uC4A6W3ICQwUg/6XDBWT8XsW8oIkipB+gYANaYWINY6\ndqN/j3f6zc5uQPI2aEq+vS4B8MUJb+8vY67+Rvmg3jNJTwieNLqo6OQCjCxkvAu1\nVnEXRMQBM4o/IXvNytF425XFMTi/+Zf2NBnE6mdiNxqTrEMbJOLcl39kGpmUkrMc\nE2+VjG01qM4N3Nl9mRj42OE3sHYq8LLPb3dsvuiXJeLV0j8q5418O5cxRVAj8eGC\nZPJ2Fq41ZVxkQ0AB0HagIW40NCjYo99jJNxAkZc7zArfYjgieGu7sWJqGA==\n-----END CERTIFICATE-----\n'
-incoming-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.contacts.request_all_uids_timestamps', 'kdeconnect.contacts.request_vcards_by_uid', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.action', 'kdeconnect.notification.reply', 'kdeconnect.notification.request', 'kdeconnect.photo.request', 'kdeconnect.ping', 'kdeconnect.runcommand', 'kdeconnect.sftp.request', 'kdeconnect.share.request', 'kdeconnect.share.request.update', 'kdeconnect.sms.request', 'kdeconnect.sms.request_attachment', 'kdeconnect.sms.request_conversation', 'kdeconnect.sms.request_conversations', 'kdeconnect.systemvolume', 'kdeconnect.telephony.request', 'kdeconnect.telephony.request_mute']
+incoming-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.contacts.request_all_uids_timestamps', 'kdeconnect.contacts.request_vcards_by_uid', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.action', 'kdeconnect.notification.reply', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.runcommand', 'kdeconnect.sftp.request', 'kdeconnect.share.request', 'kdeconnect.share.request.update', 'kdeconnect.sms.request', 'kdeconnect.sms.request_attachment', 'kdeconnect.sms.request_conversation', 'kdeconnect.sms.request_conversations', 'kdeconnect.systemvolume', 'kdeconnect.telephony.request', 'kdeconnect.telephony.request_mute']
 last-connection='lan://192.168.127.35:1716'
 name='Moto G82 5G'
-outgoing-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report', 'kdeconnect.contacts.response_uids_timestamps', 'kdeconnect.contacts.response_vcards', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.request', 'kdeconnect.photo', 'kdeconnect.ping', 'kdeconnect.presenter', 'kdeconnect.runcommand.request', 'kdeconnect.sftp', 'kdeconnect.share.request', 'kdeconnect.sms.attachment_file', 'kdeconnect.sms.messages', 'kdeconnect.systemvolume.request', 'kdeconnect.telephony']
+outgoing-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report', 'kdeconnect.contacts.response_uids_timestamps', 'kdeconnect.contacts.response_vcards', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.presenter', 'kdeconnect.runcommand.request', 'kdeconnect.sftp', 'kdeconnect.share.request', 'kdeconnect.sms.attachment_file', 'kdeconnect.sms.messages', 'kdeconnect.systemvolume.request', 'kdeconnect.telephony']
 paired=true
-supported-plugins=['battery', 'clipboard', 'connectivity_report', 'contacts', 'findmyphone', 'mousepad', 'mpris', 'notification', 'photo', 'ping', 'presenter', 'runcommand', 'sftp', 'share', 'sms', 'systemvolume', 'telephony']
+supported-plugins=['battery', 'clipboard', 'connectivity_report', 'contacts', 'findmyphone', 'mousepad', 'mpris', 'notification', 'ping', 'presenter', 'runcommand', 'sftp', 'share', 'sms', 'systemvolume', 'telephony']
 type='phone'
 
 [org/gnome/shell/extensions/gsconnect/device/29c018a77a213777/plugin/battery]
@@ -993,9 +1006,9 @@ locations=[<(uint32 2, <('Kochi', 'VOCI', true, [(0.17724788957066526, 1.3332812
 locations=@av []
 
 [org/gnome/software]
-check-timestamp=int64 1694858371
+check-timestamp=int64 1695435577
 first-run=false
-flatpak-purge-timestamp=int64 1694877395
+flatpak-purge-timestamp=int64 1695442103
 install-timestamp=int64 1694194087
 update-notification-timestamp=int64 1694194238
 
