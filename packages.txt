@@ -85,7 +85,7 @@ livesys-scripts-0.4.3-1.fc38.noarch
 lua-srpm-macros-1-8.fc38.noarch
 m4-1.4.19-5.fc38.x86_64
 make-1:4.4.1-1.fc38.x86_64
-microsoft-edge-stable-117.0.2045.35-1.x86_64
+microsoft-edge-stable-117.0.2045.40-1.x86_64
 neofetch-7.1.0-9.fc38.noarch
 nodejs-1:18.17.1-1.fc38.x86_64
 nvidia-settings-3:535.104.05-1.fc38.x86_64
@@ -134,4 +134,4 @@ zstd-1.5.5-1.fc38.x86_64
 Spotify	com.spotify.Client	1.2.13.661.ga588f749	stable	flathub	system
 Mission Center	io.missioncenter.MissionCenter	0.3.2	stable	flathub	system
 Gwenview	org.kde.gwenview	23.04.3	stable	fedora	system
-Telegram Desktop	org.telegram.desktop	4.9.9	stable	flathub	system
+Telegram Desktop	org.telegram.desktop	4.10.1	stable	flathub	system

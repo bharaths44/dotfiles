@@ -1,25 +1,25 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Evince.desktop" score="1" last-seen="1695391886"/>
-    <application id="org.gnome.tweaks.desktop" score="8" last-seen="1695225253"/>
-    <application id="org.gnome.TextEditor.desktop" score="1" last-seen="1695447612"/>
-    <application id="org.gnome.Software.desktop" score="71" last-seen="1694873165"/>
-    <application id="com.github.wwmm.easyeffects.desktop" score="14" last-seen="1695468623"/>
-    <application id="msedge-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop" score="176" last-seen="1695394141"/>
-    <application id="com.gexperts.Tilix.desktop" score="869" last-seen="1695445344"/>
-    <application id="stacer.desktop" score="4" last-seen="1694792639"/>
-    <application id="org.gnome.eog.desktop" score="9" last-seen="1695056896"/>
-    <application id="org.gnome.Nautilus.desktop" score="560" last-seen="1695465091"/>
-    <application id="org.gnome.Totem.desktop" score="1646" last-seen="1695450313"/>
-    <application id="microsoft-edge.desktop" score="23277" last-seen="1695468617"/>
-    <application id="google-chrome-unstable.desktop" score="1" last-seen="1695447532"/>
-    <application id="org.telegram.desktop.desktop" score="103" last-seen="1695468615"/>
+    <application id="org.gnome.Evince.desktop" score="0.5" last-seen="1695391886"/>
+    <application id="org.gnome.tweaks.desktop" score="4" last-seen="1695225253"/>
+    <application id="org.gnome.TextEditor.desktop" score="0.5" last-seen="1695447612"/>
+    <application id="org.gnome.Software.desktop" score="35.5" last-seen="1694873165"/>
+    <application id="com.github.wwmm.easyeffects.desktop" score="7" last-seen="1695539991"/>
+    <application id="msedge-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop" score="88" last-seen="1695394141"/>
+    <application id="com.gexperts.Tilix.desktop" score="434.5" last-seen="1695540168"/>
+    <application id="stacer.desktop" score="2" last-seen="1694792639"/>
+    <application id="org.gnome.eog.desktop" score="4.5" last-seen="1695056896"/>
+    <application id="org.gnome.Nautilus.desktop" score="280" last-seen="1695465091"/>
+    <application id="org.gnome.Totem.desktop" score="823" last-seen="1695450313"/>
+    <application id="microsoft-edge.desktop" score="16760" last-seen="1695540168"/>
+    <application id="google-chrome-unstable.desktop" score="0.5" last-seen="1695447532"/>
+    <application id="org.telegram.desktop.desktop" score="51.5" last-seen="1695468615"/>
     <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1695056945"/>
-    <application id="vlc.desktop" score="3808" last-seen="1695465057"/>
-    <application id="code.desktop" score="3791" last-seen="1695448044"/>
-    <application id="org.gnome.Calendar.desktop" score="5" last-seen="1695225031"/>
-    <application id="com.spotify.Client.desktop" score="1217" last-seen="1695446293"/>
-    <application id="org.gnome.Settings.desktop" score="16916" last-seen="1695225002"/>
+    <application id="vlc.desktop" score="1904" last-seen="1695465057"/>
+    <application id="code.desktop" score="1895.5" last-seen="1695448044"/>
+    <application id="org.gnome.Calendar.desktop" score="2.5" last-seen="1695225031"/>
+    <application id="com.spotify.Client.desktop" score="608.5" last-seen="1695446293"/>
+    <application id="org.gnome.Settings.desktop" score="8458" last-seen="1695225002"/>
   </context>
 </application-state>

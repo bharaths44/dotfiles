@@ -667,12 +667,12 @@ window-maximized=false
 window-size=(954, 1032)
 
 [org/gnome/clocks]
-world-clocks=@aa{sv} []
+world-clocks=[{'location': <(uint32 2, <('Madrid', 'LEVS', true, [(0.7045991230607519, -0.066060712187985385)], [(0.70511301780570912, -0.0642862882973603)])>)>}, {'location': <(uint32 2, <('London', 'EGWU', true, [(0.89971722940307675, -0.007272211034407213)], [(0.89884456477707964, -0.0020362232784242244)])>)>}, {'location': <(uint32 2, <('Paris', 'LFPB', true, [(0.85462956287765413, 0.042760566673861078)], [(0.8528842336256599, 0.040724343395436846)])>)>}, {'location': <(uint32 2, <('Dubai', 'OMDB', true, [(0.44069563612856821, 0.96574884695243146)], [(0.44073441734454749, 0.9648180105024653)])>)>}]
 
 [org/gnome/clocks/state/window]
-maximized=false
+maximized=true
 panel-id='world'
-size=(634, 514)
+size=(1912, 456)
 
 [org/gnome/control-center]
 last-panel='online-accounts'
@@ -880,7 +880,7 @@ last-selected-power-profile='power-saver'
 welcome-dialog-last-shown-version='44.0'
 
 [org/gnome/shell/extensions/caffeine]
-indicator-position-max=4
+indicator-position-max=3
 
 [org/gnome/shell/extensions/dash-to-dock]
 apply-custom-theme=true
@@ -954,7 +954,7 @@ workspace-active-tile-toggle=['<Shift><Super>w']
 hide-search=false
 
 [org/gnome/shell/extensions/gsconnect]
-devices=['29c018a77a213777']
+devices=['29c018a77a213777', '0c69533f2b816819']
 id='14243bc9-288a-4844-87cf-c6a7f8dcc278'
 name='fedora'
 
@@ -1003,14 +1003,14 @@ automatic-location=true
 locations=[<(uint32 2, <('Kochi', 'VOCI', true, [(0.17724788957066526, 1.3332812582217786)], [(0.17413149947147427, 1.3311626204960751)])>)>]
 
 [org/gnome/shell/world-clocks]
-locations=@av []
+locations=[<(uint32 2, <('Madrid', 'LEVS', true, [(0.7045991230607519, -0.066060712187985385)], [(0.70511301780570912, -0.0642862882973603)])>)>, <(uint32 2, <('London', 'EGWU', true, [(0.89971722940307675, -0.007272211034407213)], [(0.89884456477707964, -0.0020362232784242244)])>)>, <(uint32 2, <('Paris', 'LFPB', true, [(0.85462956287765413, 0.042760566673861078)], [(0.8528842336256599, 0.040724343395436846)])>)>, <(uint32 2, <('Dubai', 'OMDB', true, [(0.44069563612856821, 0.96574884695243146)], [(0.44073441734454749, 0.9648180105024653)])>)>]
 
 [org/gnome/software]
-check-timestamp=int64 1695435577
+check-timestamp=int64 1695516448
 first-run=false
-flatpak-purge-timestamp=int64 1695442103
+flatpak-purge-timestamp=int64 1695514103
 install-timestamp=int64 1694194087
-update-notification-timestamp=int64 1694194238
+update-notification-timestamp=int64 1695516606
 
 [org/gnome/system/location]
 enabled=false
