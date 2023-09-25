@@ -29,4 +29,5 @@ eval "$(starship init bash)"
 neofetch
 
 alias config='/usr/bin/git --git-dir=/home/bharaths/dotfiles/ --work-tree=/home/bharaths'
-alias studio='/home/bharaths/android-studio/bin/studio.sh'
+export PATH="$PATH:/home/bharaths/flutter/bin"
+export PATH="$PATH:/home/bharaths/android-studio/bin"

@@ -26,11 +26,11 @@ color=(1.0, 1.0, 1.0, 1.0)
 color-axis-labels=(1.0, 1.0, 1.0, 1.0)
 
 [com/github/wwmm/easyeffects/streaminputs]
-input-device='alsa_input.pci-0000_05_00.6.analog-stereo'
+input-device='alsa_input.pci-0000_05_00.6.3.analog-stereo'
 
 [com/github/wwmm/easyeffects/streamoutputs]
 blocklist=@as []
-output-device='alsa_output.pci-0000_05_00.6.analog-stereo'
+output-device='bluez_output.F4_4E_FD_00_00_E3.1'
 plugins=['convolver#0']
 show-blocklisted-apps=true
 
@@ -60,7 +60,7 @@ threshold=-10.0
 autogain=true
 input-gain=-2.0
 ir-width=100
-kernel-path='/home/bharaths/.config/easyeffects/irs/Razor Surround ((48k Z-Edition)) 2.Stereo +20 bass.irs'
+kernel-path='/home/bharaths/.config/easyeffects/irs/Dolby ATMOS ((128K MP3)) 1.Default.irs'
 output-gain=0.0
 
 [com/github/wwmm/easyeffects/streamoutputs/equalizer/0]
@@ -852,10 +852,11 @@ dynamic-workspaces=false
 default-folder-viewer='icon-view'
 migrated-gtk-settings=true
 search-filter-time-type='last_modified'
+search-view='list-view'
 
 [org/gnome/nautilus/window-state]
-initial-size=(1920, 1040)
-maximized=false
+initial-size=(954, 1032)
+maximized=true
 
 [org/gnome/portal/filechooser/com.usebottles.bottles]
 last-folder-path='/run/media/bharaths/Vier/FIFA 23'
@@ -880,7 +881,8 @@ last-selected-power-profile='power-saver'
 welcome-dialog-last-shown-version='44.0'
 
 [org/gnome/shell/extensions/caffeine]
-indicator-position-max=3
+indicator-position-max=4
+toggle-state=false
 
 [org/gnome/shell/extensions/dash-to-dock]
 apply-custom-theme=true
@@ -954,13 +956,13 @@ workspace-active-tile-toggle=['<Shift><Super>w']
 hide-search=false
 
 [org/gnome/shell/extensions/gsconnect]
-devices=['29c018a77a213777', '0c69533f2b816819']
+devices=['29c018a77a213777']
 id='14243bc9-288a-4844-87cf-c6a7f8dcc278'
 name='fedora'
 
 [org/gnome/shell/extensions/gsconnect/device/0c69533f2b816819]
 incoming-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.contacts.request_all_uids_timestamps', 'kdeconnect.contacts.request_vcards_by_uid', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.action', 'kdeconnect.notification.reply', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.runcommand', 'kdeconnect.sftp.request', 'kdeconnect.share.request', 'kdeconnect.share.request.update', 'kdeconnect.sms.request', 'kdeconnect.sms.request_attachment', 'kdeconnect.sms.request_conversation', 'kdeconnect.sms.request_conversations', 'kdeconnect.systemvolume', 'kdeconnect.telephony.request', 'kdeconnect.telephony.request_mute']
-last-connection='lan://192.168.29.166:1716'
+last-connection='lan://192.168.29.253:1716'
 name='SM-G996B'
 outgoing-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report', 'kdeconnect.contacts.response_uids_timestamps', 'kdeconnect.contacts.response_vcards', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.presenter', 'kdeconnect.runcommand.request', 'kdeconnect.sftp', 'kdeconnect.share.request', 'kdeconnect.sms.attachment_file', 'kdeconnect.sms.messages', 'kdeconnect.systemvolume.request', 'kdeconnect.telephony']
 supported-plugins=['battery', 'clipboard', 'connectivity_report', 'contacts', 'findmyphone', 'mousepad', 'mpris', 'notification', 'ping', 'presenter', 'runcommand', 'sftp', 'share', 'sms', 'systemvolume', 'telephony']
@@ -1006,9 +1008,9 @@ locations=[<(uint32 2, <('Kochi', 'VOCI', true, [(0.17724788957066526, 1.3332812
 locations=[<(uint32 2, <('Madrid', 'LEVS', true, [(0.7045991230607519, -0.066060712187985385)], [(0.70511301780570912, -0.0642862882973603)])>)>, <(uint32 2, <('London', 'EGWU', true, [(0.89971722940307675, -0.007272211034407213)], [(0.89884456477707964, -0.0020362232784242244)])>)>, <(uint32 2, <('Paris', 'LFPB', true, [(0.85462956287765413, 0.042760566673861078)], [(0.8528842336256599, 0.040724343395436846)])>)>, <(uint32 2, <('Dubai', 'OMDB', true, [(0.44069563612856821, 0.96574884695243146)], [(0.44073441734454749, 0.9648180105024653)])>)>]
 
 [org/gnome/software]
-check-timestamp=int64 1695516448
+check-timestamp=int64 1695651448
 first-run=false
-flatpak-purge-timestamp=int64 1695514103
+flatpak-purge-timestamp=int64 1695657984
 install-timestamp=int64 1694194087
 update-notification-timestamp=int64 1695516606
 
