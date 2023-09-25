@@ -102,11 +102,11 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/saved_settings.dconf" added="2023-09-03T09:15:01.675734Z" modified="2023-09-13T15:30:12.452598Z" visited="2023-09-13T20:49:47.843095+05:30">
+  <bookmark href="file:///home/bharaths/saved_settings.dconf" added="2023-09-03T09:15:01.675734Z" modified="2023-09-25T17:11:50.912745Z" visited="2023-09-25T22:41:08.552624+05:30">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-13T15:30:12.452595Z" count="67"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T17:11:50.912743Z" count="74"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -129,11 +129,11 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/.bashrc" added="2023-09-04T16:46:19.636745Z" modified="2023-09-25T17:00:23.950789Z" visited="2023-09-25T22:25:18.950775+05:30">
+  <bookmark href="file:///home/bharaths/.bashrc" added="2023-09-04T16:46:19.636745Z" modified="2023-09-25T17:11:50.912759Z" visited="2023-09-25T22:41:08.543029+05:30">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T17:00:23.950787Z" count="64"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T17:11:50.912756Z" count="71"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -336,11 +336,29 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/Downloads/weatherapp/pubspec.yaml" added="2023-09-25T16:17:15.489089Z" modified="2023-09-25T17:00:23.950783Z" visited="2023-09-25T22:25:18.936968+05:30">
+  <bookmark href="file:///home/bharaths/Downloads/weatherapp/pubspec.yaml" added="2023-09-25T16:17:15.489089Z" modified="2023-09-25T17:11:50.912752Z" visited="2023-09-25T22:41:08.519957+05:30">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T17:00:23.950778Z" count="55"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T17:11:50.912750Z" count="62"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.config/flutter/settings" added="2023-09-25T17:11:04.487025Z" modified="2023-09-25T17:11:50.912738Z" visited="2023-09-25T22:41:08.524957+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T17:11:50.912736Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.config/flutter/tool_state" added="2023-09-25T17:11:11.488846Z" modified="2023-09-25T17:11:50.912730Z" visited="2023-09-25T22:41:08.509237+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T17:11:50.912726Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>

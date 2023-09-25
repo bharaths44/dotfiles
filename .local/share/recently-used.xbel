@@ -748,12 +748,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/saved_settings.dconf" added="2023-09-03T09:14:58.555843Z" modified="2023-09-04T07:01:58.756930Z" visited="2023-09-03T09:14:58.555847Z">
+  <bookmark href="file:///home/bharaths/saved_settings.dconf" added="2023-09-03T09:14:58.555843Z" modified="2023-09-25T17:09:27.156247Z" visited="2023-09-03T09:14:58.555847Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/plain"/>
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-04T07:01:58.756924Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-25T17:09:27.156244Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -1710,6 +1710,26 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-09-25T16:42:21.978554Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.config/flutter/settings" added="2023-09-25T17:11:01.386450Z" modified="2023-09-25T17:11:01.386466Z" visited="2023-09-25T17:11:01.386454Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-25T17:11:01.386459Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/.config/flutter/tool_state" added="2023-09-25T17:11:07.938586Z" modified="2023-09-25T17:11:07.938618Z" visited="2023-09-25T17:11:07.938605Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-09-25T17:11:07.938612Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
