@@ -17,16 +17,16 @@ show-native-plugin-ui=true
 shutdown-on-window-close=true
 use-dark-theme=true
 window-fullscreen=false
-window-height=1040
+window-height=1032
 window-maximized=false
-window-width=1920
+window-width=954
 
 [com/github/wwmm/easyeffects/spectrum]
 color=(1.0, 1.0, 1.0, 1.0)
 color-axis-labels=(1.0, 1.0, 1.0, 1.0)
 
 [com/github/wwmm/easyeffects/streaminputs]
-input-device='alsa_input.pci-0000_05_00.6.3.analog-stereo'
+input-device='alsa_input.pci-0000_05_00.6.analog-stereo'
 
 [com/github/wwmm/easyeffects/streamoutputs]
 blocklist=@as []
@@ -681,8 +681,8 @@ panel-id='world'
 size=(1912, 456)
 
 [org/gnome/control-center]
-last-panel='online-accounts'
-window-state=(954, 514, false)
+last-panel='wifi'
+window-state=(954, 1032, false)
 
 [org/gnome/desktop/app-folders]
 folder-children=['Utilities', 'YaST']
@@ -724,7 +724,7 @@ text-scaling-factor=1.25
 toolkit-accessibility=false
 
 [org/gnome/desktop/notifications]
-application-children=['org-freedesktop-problems-applet', 'org-gnome-nautilus', 'org-gnome-terminal', 'com-usebottles-bottles', 'com-spotify-client', 'gnome-network-panel', 'org-gnome-software', 'org-gnome-font-viewer', 'org-gnome-terminal-preferences', 'org-gnome-texteditor', 'code', 'org-gnome-tweaks', 'grub-customizer', 'gnome-power-panel', 'org-gnome-shell-extensions-gsconnect', 'com-gexperts-tilix', 'org-telegram-desktop', 'org-gnome-calendar', 'google-chrome-unstable', 'org-gnome-shell-extensions', 'org-gnome-totem', 'com-github-wwmm-easyeffects', 'msedge-hnpfjngllnobngcgfapefoaidbinmjnm-default', 'microsoft-edge', 'stacer', 'code-insiders', 'org-freedesktop-gnomeabrt', 'org-gnome-eog', 'org-gnome-settings']
+application-children=['org-freedesktop-problems-applet', 'org-gnome-nautilus', 'org-gnome-terminal', 'com-usebottles-bottles', 'com-spotify-client', 'gnome-network-panel', 'org-gnome-software', 'org-gnome-font-viewer', 'org-gnome-terminal-preferences', 'org-gnome-texteditor', 'code', 'org-gnome-tweaks', 'grub-customizer', 'gnome-power-panel', 'org-gnome-shell-extensions-gsconnect', 'com-gexperts-tilix', 'org-telegram-desktop', 'org-gnome-calendar', 'google-chrome-unstable', 'org-gnome-shell-extensions', 'org-gnome-totem', 'com-github-wwmm-easyeffects', 'msedge-hnpfjngllnobngcgfapefoaidbinmjnm-default', 'microsoft-edge', 'stacer', 'code-insiders', 'org-freedesktop-gnomeabrt', 'org-gnome-eog', 'org-gnome-settings', 'org-qbittorrent-qbittorrent', 'vlc', 'xdg-desktop-portal-gnome', 'kodi']
 show-banners=false
 
 [org/gnome/desktop/notifications/application/code-insiders]
@@ -756,6 +756,9 @@ application-id='google-chrome-unstable.desktop'
 
 [org/gnome/desktop/notifications/application/grub-customizer]
 application-id='grub-customizer.desktop'
+
+[org/gnome/desktop/notifications/application/kodi]
+application-id='kodi.desktop'
 
 [org/gnome/desktop/notifications/application/microsoft-edge]
 application-id='microsoft-edge.desktop'
@@ -808,11 +811,20 @@ application-id='org.gnome.Totem.desktop'
 [org/gnome/desktop/notifications/application/org-gnome-tweaks]
 application-id='org.gnome.tweaks.desktop'
 
+[org/gnome/desktop/notifications/application/org-qbittorrent-qbittorrent]
+application-id='org.qbittorrent.qBittorrent.desktop'
+
 [org/gnome/desktop/notifications/application/org-telegram-desktop]
 application-id='org.telegram.desktop.desktop'
 
 [org/gnome/desktop/notifications/application/stacer]
 application-id='stacer.desktop'
+
+[org/gnome/desktop/notifications/application/vlc]
+application-id='vlc.desktop'
+
+[org/gnome/desktop/notifications/application/xdg-desktop-portal-gnome]
+application-id='xdg-desktop-portal-gnome.desktop'
 
 [org/gnome/desktop/peripherals/keyboard]
 numlock-state=true
@@ -862,7 +874,7 @@ search-view='list-view'
 
 [org/gnome/nautilus/window-state]
 initial-size=(954, 1032)
-maximized=true
+maximized=false
 
 [org/gnome/portal/filechooser/com.usebottles.bottles]
 last-folder-path='/run/media/bharaths/Vier/FIFA 23'
@@ -880,7 +892,7 @@ idle-dim=false
 sleep-inactive-ac-type='nothing'
 
 [org/gnome/shell]
-app-picker-layout=[{'org.gnome.Boxes.desktop': <{'position': <0>}>, 'org.gnome.Calculator.desktop': <{'position': <1>}>, 'org.gnome.Calendar.desktop': <{'position': <2>}>, 'org.gnome.Cheese.desktop': <{'position': <3>}>, 'org.gnome.clocks.desktop': <{'position': <4>}>, 'org.gnome.Contacts.desktop': <{'position': <5>}>, 'flutter_openurl.desktop': <{'position': <6>}>, 'grub-customizer.desktop': <{'position': <7>}>, 'org.kde.gwenview.desktop': <{'position': <8>}>, 'yelp.desktop': <{'position': <9>}>, 'htop.desktop': <{'position': <10>}>, 'libreoffice-calc.desktop': <{'position': <11>}>, 'libreoffice-impress.desktop': <{'position': <12>}>, 'libreoffice-writer.desktop': <{'position': <13>}>, 'org.gnome.Maps.desktop': <{'position': <14>}>, 'msedge-ocdlmjhbenodhlknglojajgokahchlkk-Default.desktop': <{'position': <15>}>, 'nvidia-settings.desktop': <{'position': <16>}>, 'org.gnome.Rhythmbox3.desktop': <{'position': <17>}>, 'stacer.desktop': <{'position': <18>}>, 'gnome-system-monitor.desktop': <{'position': <19>}>, 'org.gnome.Terminal.desktop': <{'position': <20>}>, 'org.gnome.TextEditor.desktop': <{'position': <21>}>, 'org.gnome.Tour.desktop': <{'position': <22>}>, 'Utilities': <{'position': <23>}>}, {'org.gnome.Totem.desktop': <{'position': <0>}>, 'vlc.desktop': <{'position': <1>}>, 'org.gnome.Weather.desktop': <{'position': <2>}>}]
+app-picker-layout=[{'org.gnome.Boxes.desktop': <{'position': <0>}>, 'org.gnome.Calculator.desktop': <{'position': <1>}>, 'org.gnome.Calendar.desktop': <{'position': <2>}>, 'calf.desktop': <{'position': <3>}>, 'org.gnome.Cheese.desktop': <{'position': <4>}>, 'org.gnome.clocks.desktop': <{'position': <5>}>, 'org.gnome.Contacts.desktop': <{'position': <6>}>, 'com.github.wwmm.easyeffects.desktop': <{'position': <7>}>, 'google-chrome-unstable.desktop': <{'position': <8>}>, 'grub-customizer.desktop': <{'position': <9>}>, 'org.kde.gwenview.desktop': <{'position': <10>}>, 'yelp.desktop': <{'position': <11>}>, 'htop.desktop': <{'position': <12>}>, 'libreoffice-calc.desktop': <{'position': <13>}>, 'libreoffice-impress.desktop': <{'position': <14>}>, 'libreoffice-writer.desktop': <{'position': <15>}>, 'org.gnome.Maps.desktop': <{'position': <16>}>, 'msedge-ocdlmjhbenodhlknglojajgokahchlkk-Default.desktop': <{'position': <17>}>, 'nvidia-settings.desktop': <{'position': <18>}>, 'org.qbittorrent.qBittorrent.desktop': <{'position': <19>}>, 'org.gnome.Rhythmbox3.desktop': <{'position': <20>}>, 'stacer.desktop': <{'position': <21>}>, 'gnome-system-monitor.desktop': <{'position': <22>}>, 'org.gnome.Terminal.desktop': <{'position': <23>}>}, {'org.gnome.TextEditor.desktop': <{'position': <0>}>, 'org.gnome.Tour.desktop': <{'position': <1>}>, 'Utilities': <{'position': <2>}>, 'org.gnome.Totem.desktop': <{'position': <3>}>, 'vlc.desktop': <{'position': <4>}>, 'org.gnome.Weather.desktop': <{'position': <5>}>}]
 enabled-extensions=['background-logo@fedorahosted.org', 'dash-to-dock@micxgx.gmail.com', 'activities-filled-pill@verdre', 'AlphabeticalAppGrid@stuarthayhurst', 'caffeine@patapon.info', 'extension-list@tu.berry', 'forge@jmmaranan.com', 'search-light@icedman.github.com', 'impatience@gfxmonk.net', 'gnome-ui-tune@itstime.tech', 'gsconnect@andyholmes.github.io', 'blur-my-shell@aunetx']
 favorite-apps=['org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'microsoft-edge.desktop', 'com.gexperts.Tilix.desktop', 'code.desktop', 'com.spotify.Client.desktop', 'org.telegram.desktop.desktop', 'vantage.desktop', 'io.missioncenter.MissionCenter.desktop', 'msedge-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop', 'msedge-jckaldkomadaenmmgladeopgmfbahfjm-Default.desktop', 'org.gnome.Settings.desktop']
 last-selected-power-profile='power-saver'
@@ -968,7 +980,7 @@ name='fedora'
 
 [org/gnome/shell/extensions/gsconnect/device/0c69533f2b816819]
 incoming-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.contacts.request_all_uids_timestamps', 'kdeconnect.contacts.request_vcards_by_uid', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.action', 'kdeconnect.notification.reply', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.runcommand', 'kdeconnect.sftp.request', 'kdeconnect.share.request', 'kdeconnect.share.request.update', 'kdeconnect.sms.request', 'kdeconnect.sms.request_attachment', 'kdeconnect.sms.request_conversation', 'kdeconnect.sms.request_conversations', 'kdeconnect.systemvolume', 'kdeconnect.telephony.request', 'kdeconnect.telephony.request_mute']
-last-connection='lan://192.168.29.253:1716'
+last-connection='lan://192.168.29.166:1716'
 name='SM-G996B'
 outgoing-capabilities=['kdeconnect.battery', 'kdeconnect.bigscreen.stt', 'kdeconnect.clipboard', 'kdeconnect.clipboard.connect', 'kdeconnect.connectivity_report', 'kdeconnect.contacts.response_uids_timestamps', 'kdeconnect.contacts.response_vcards', 'kdeconnect.findmyphone.request', 'kdeconnect.mousepad.echo', 'kdeconnect.mousepad.keyboardstate', 'kdeconnect.mousepad.request', 'kdeconnect.mpris', 'kdeconnect.mpris.request', 'kdeconnect.notification', 'kdeconnect.notification.request', 'kdeconnect.ping', 'kdeconnect.presenter', 'kdeconnect.runcommand.request', 'kdeconnect.sftp', 'kdeconnect.share.request', 'kdeconnect.sms.attachment_file', 'kdeconnect.sms.messages', 'kdeconnect.systemvolume.request', 'kdeconnect.telephony']
 supported-plugins=['battery', 'clipboard', 'connectivity_report', 'contacts', 'findmyphone', 'mousepad', 'mpris', 'notification', 'ping', 'presenter', 'runcommand', 'sftp', 'share', 'sms', 'systemvolume', 'telephony']
@@ -1004,7 +1016,7 @@ entry-font-size=1
 monitor-count=1
 scale-height=0.10000000000000001
 scale-width=0.10000000000000001
-shortcut-search=['']
+shortcut-search=['<Control>grave']
 
 [org/gnome/shell/weather]
 automatic-location=true
@@ -1014,9 +1026,9 @@ locations=[<(uint32 2, <('Kochi', 'VOCI', true, [(0.17724788957066526, 1.3332812
 locations=[<(uint32 2, <('Madrid', 'LEVS', true, [(0.7045991230607519, -0.066060712187985385)], [(0.70511301780570912, -0.0642862882973603)])>)>, <(uint32 2, <('London', 'EGWU', true, [(0.89971722940307675, -0.007272211034407213)], [(0.89884456477707964, -0.0020362232784242244)])>)>, <(uint32 2, <('Paris', 'LFPB', true, [(0.85462956287765413, 0.042760566673861078)], [(0.8528842336256599, 0.040724343395436846)])>)>, <(uint32 2, <('Dubai', 'OMDB', true, [(0.44069563612856821, 0.96574884695243146)], [(0.44073441734454749, 0.9648180105024653)])>)>]
 
 [org/gnome/software]
-check-timestamp=int64 1695651448
+check-timestamp=int64 1696036995
 first-run=false
-flatpak-purge-timestamp=int64 1695657984
+flatpak-purge-timestamp=int64 1696036240
 install-timestamp=int64 1694194087
 update-notification-timestamp=int64 1695516606
 
@@ -1037,7 +1049,7 @@ selected-color=(true, 0.10196078568696976, 0.37254902720451355, 0.70588237047195
 [org/gtk/gtk4/settings/file-chooser]
 date-format='regular'
 location-mode='path-bar'
-show-hidden=true
+show-hidden=false
 show-size-column=true
 show-type-column=true
 sidebar-width=140

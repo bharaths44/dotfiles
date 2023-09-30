@@ -291,20 +291,20 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/Downloads/weatherapp%20(1)/weatherapp/lib/controller/global_controller.dart" added="2023-09-25T15:53:28.489375Z" modified="2023-09-25T16:55:06.436906Z" visited="2023-09-25T22:24:02.517034+05:30">
+  <bookmark href="file:///home/bharaths/Downloads/weatherapp%20(1)/weatherapp/lib/controller/global_controller.dart" added="2023-09-25T15:53:28.489375Z" modified="2023-09-28T05:38:25.683409Z" visited="2023-09-28T11:08:07.500385+05:30">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T16:55:06.436902Z" count="25"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-28T05:38:25.683407Z" count="27"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/bharaths/Downloads/weatherapp%20(1)/weatherapp/lib/screens/home_screen.dart" added="2023-09-25T16:02:08.503548Z" modified="2023-09-25T16:11:52.042454Z" visited="2023-09-25T21:32:05.584477+05:30">
+  <bookmark href="file:///home/bharaths/Downloads/weatherapp%20(1)/weatherapp/lib/screens/home_screen.dart" added="2023-09-25T16:02:08.503548Z" modified="2023-09-25T18:51:04.499080Z" visited="2023-09-25T23:52:22.822801+05:30">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T16:11:52.042450Z" count="4"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T18:51:04.499075Z" count="6"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -359,6 +359,51 @@
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
           <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-25T17:11:50.912726Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/weatherapp%20(1)/weatherapp/lib/model/weather_data_current.dart" added="2023-09-25T17:42:17.488761Z" modified="2023-09-28T05:38:02.755253Z" visited="2023-09-28T11:07:52.819839+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-28T05:38:02.755248Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/weatherapp%20(1)/weatherapp/lib/api/fetch_weather.dart" added="2023-09-28T05:38:32.650628Z" modified="2023-09-28T05:39:46.390132Z" visited="2023-09-28T11:08:29.692434+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-28T05:39:46.390127Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/Downloads/weatherapp%20(1)/weatherapp/custom_colors.txt" added="2023-09-28T06:08:07.642355Z" modified="2023-09-28T06:08:15.572438Z" visited="2023-09-28T11:38:05.399979+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-28T06:08:15.572433Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/StudioProjects/newsapp/lib/home_page.dart" added="2023-09-28T06:25:50.644195Z" modified="2023-09-28T06:36:19.573045Z" visited="2023-09-28T12:06:09.338553+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-28T06:36:19.573040Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bharaths/StudioProjects/newsapp/lib/login_page.dart" added="2023-09-28T06:36:24.644101Z" modified="2023-09-28T06:36:36.111313Z" visited="2023-09-28T12:06:21.857335+05:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-09-28T06:36:36.111309Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
